@@ -38,11 +38,11 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 📰 Recent Blog Posts
 
+- [The Ultimate Powershell Experience](https://christitus.com/the-ultimate-powershell-experience/)
 - [RisingOS 2.0 - Android Custom ROM](https://christitus.com/risingoss/)
 - [Windows Utility Improved](https://christitus.com/windows-utility-improved/)
 - [Improve Youtube](https://christitus.com/improve-youtube/)
 - [Zoxide](https://christitus.com/zoxide/)
-- [VPN Tier List 2024](https://christitus.com/vpn-tier-list-2024/)
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/c/ChrisTitusTech>
   - Twitch    : <https://twitch.tv/christitustech>
