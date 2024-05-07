@@ -26,6 +26,7 @@
 - [Create games “2024-03-09-test2”](https://github.com/brrock/Game-x-new/pull/2) on [brrock/Game-x-new](https://github.com/brrock/Game-x-new)
 ### ⭐ Recent Stars
 
+- [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - Automated Hyprland installer for Debian 13 Trixie and Debian SID (unstable) and Ubuntu 24.04 Noble Numbat
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 📰 Recent Blog Posts
