@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/blog](https://github.com/brrock/blog) - 
 - [brrock/techblog](https://github.com/brrock/techblog) - 
+- [brrock/blog](https://github.com/brrock/blog) - 
 - [brrock/Game-x-new](https://github.com/brrock/Game-x-new) - 
 - [brrock/web](https://github.com/brrock/web) - 
 - [brrock/Simple-web-tools](https://github.com/brrock/Simple-web-tools) - 
