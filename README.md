@@ -12,11 +12,11 @@
 - [brrock/ronorbroytweb](https://github.com/brrock/ronorbroytweb) - 
 ### 🌱 My latest projects
 
+- [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/ronorbroytweb](https://github.com/brrock/ronorbroytweb) - 
 - [brrock/Simple-web-tools](https://github.com/brrock/Simple-web-tools) - 
 - [brrock/empress-blog-netlify-casper-template](https://github.com/brrock/empress-blog-netlify-casper-template) - 
 - [brrock/barebones-oo-shutup-config](https://github.com/brrock/barebones-oo-shutup-config) - 
-- [brrock/Game-x-new](https://github.com/brrock/Game-x-new) - 
 ### 🔨 My recent Pull Requests
 
 - [Update games “2024-03-09-test2”](https://github.com/brrock/Game-x-new/pull/6) on [brrock/Game-x-new](https://github.com/brrock/Game-x-new)
