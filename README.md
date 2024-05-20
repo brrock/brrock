@@ -26,8 +26,8 @@
 - [Create games “2024-03-09-test2”](https://github.com/brrock/Game-x-new/pull/2) on [brrock/Game-x-new](https://github.com/brrock/Game-x-new)
 ### ⭐ Recent Stars
 
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for better and simpler use PowerShell completions. (一个补全管理模块，更简单、更方便的使用命令补全)
+- [leo-petrucci/imput-cms](https://github.com/leo-petrucci/imput-cms) - A Git MDX content management system
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for better and simpler use completions in PowerShell.  一个补全管理模块，更简单、更方便的在 PowerShell 中使用命令补全。
 - [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo) - 
 - [morgnism/notion-cms-example](https://github.com/morgnism/notion-cms-example) - Example application demoing some basic features of Notions API.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
