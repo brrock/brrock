@@ -9,7 +9,7 @@
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/blog](https://github.com/brrock/blog) - 
 - [brrock/Game-x-new](https://github.com/brrock/Game-x-new) - 
-- [brrock/Simple-web-tools](https://github.com/brrock/Simple-web-tools) - 
+- [brrock/web](https://github.com/brrock/web) - 
 ### 🌱 My latest projects
 
 - [brrock/website](https://github.com/brrock/website) - 
