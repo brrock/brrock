@@ -26,8 +26,8 @@
 - [Create games “2024-03-09-test2”](https://github.com/brrock/Game-x-new/pull/2) on [brrock/Game-x-new](https://github.com/brrock/Game-x-new)
 ### ⭐ Recent Stars
 
+- [skzhengkai/free-chatgpt-api](https://github.com/skzhengkai/free-chatgpt-api) - Access ChatGPT (GPT-3.5) API for absolutely free, hosted from your own computer! No API key required. A modified instance of PawanOsman/ChatGPT in different coding languages.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [leo-petrucci/imput-cms](https://github.com/leo-petrucci/imput-cms) - A Git MDX content management system
 - [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for better and simpler use completions in PowerShell.  一个补全管理模块，更简单、更方便的在 PowerShell 中使用命令补全。
-- [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo) - 
