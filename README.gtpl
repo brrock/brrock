@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/brboy"><img src="https://api.daily.dev/devcards/v2/4Od30842NXiIC3it6dfHG.png?r=60c&type=default" width="356" alt="Brboy's Dev Card"/></a>
 ### GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/brrock/brrock/main/github-metrics.svg" /></p>
