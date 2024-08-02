@@ -6,17 +6,17 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
+- [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
 - [brrock/website](https://github.com/brrock/website) - 
 - [yourCloudOS/yourCloudOS](https://github.com/yourCloudOS/yourCloudOS) - 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 ### 🌱 My latest projects
 
+- [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/website](https://github.com/brrock/website) - 
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
-- [brrock/ronorbroytweb](https://github.com/brrock/ronorbroytweb) - 
 ### 🔨 My recent Pull Requests
 
 - [Revert &#34;Bump eslint from 8.57.0 to 9.6.0&#34;](https://github.com/brrock/gamex/pull/6) on [brrock/gamex](https://github.com/brrock/gamex)
