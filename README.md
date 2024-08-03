@@ -19,11 +19,11 @@
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 ### 🔨 My recent Pull Requests
 
+- [Add Debian to installation.md](https://github.com/hyprwm/hyprland-wiki/pull/733) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 - [Revert &#34;Bump eslint from 8.57.0 to 9.6.0&#34;](https://github.com/brrock/gamex/pull/6) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Remove java 20](https://github.com/ChrisTitusTech/winutil/pull/2095) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Test](https://github.com/brrock/winutil/pull/1) on [brrock/winutil](https://github.com/brrock/winutil)
 - [Test](https://github.com/ChrisTitusTech/winutil/pull/2094) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Update games “2024-03-09-test2”](https://github.com/brrock/Game-x-new/pull/6) on [brrock/Game-x-new](https://github.com/brrock/Game-x-new)
 ### ⭐ Recent Stars
 
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
