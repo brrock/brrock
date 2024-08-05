@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
 - [brrock/website](https://github.com/brrock/website) - 
-- [yourCloudOS/yourCloudOS](https://github.com/yourCloudOS/yourCloudOS) - 
 ### 🌱 My latest projects
 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
