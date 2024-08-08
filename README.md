@@ -19,15 +19,15 @@
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 ### 🔨 My recent Pull Requests
 
+- [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 - [Add Debian to installation.md](https://github.com/hyprwm/hyprland-wiki/pull/733) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 - [Revert &#34;Bump eslint from 8.57.0 to 9.6.0&#34;](https://github.com/brrock/gamex/pull/6) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Remove java 20](https://github.com/ChrisTitusTech/winutil/pull/2095) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 - [Test](https://github.com/brrock/winutil/pull/1) on [brrock/winutil](https://github.com/brrock/winutil)
-- [Test](https://github.com/ChrisTitusTech/winutil/pull/2094) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [brrock/brrock](https://github.com/brrock/brrock) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
-- [brrock/ronotbroyt.xyz](https://github.com/brrock/ronotbroyt.xyz) - My new and improved website with the help of @brrock 
