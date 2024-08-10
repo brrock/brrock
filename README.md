@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
+- [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
+- [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
-- [brrock/website](https://github.com/brrock/website) - 
 ### 🌱 My latest projects
 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
