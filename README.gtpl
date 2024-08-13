@@ -19,3 +19,10 @@
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
+# My setup
+Debain Linux dual boot with Win11 pro
+Geekoom mini air12 - Intel N100 16 GB RAM
+Hyprland and AGS 
+My dotfiles
+VScodium - sweet dracula theme
+Kitty terminal
