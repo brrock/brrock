@@ -30,6 +30,10 @@ Hyprland and AGS
 VScodium - sweet dracula theme
 
 Kitty terminal
+
 ## Some of my work
+
 Chris Titus Tech Winutil 1 PR
+
 Hyprland wiki 2 PRs
+
