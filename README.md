@@ -31,3 +31,10 @@
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [brrock/brrock](https://github.com/brrock/brrock) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
+# My setup
+Debain Linux dual boot with Win11 pro
+Geekoom mini air12 - Intel N100 16 GB RAM
+Hyprland and AGS 
+My dotfiles
+VScodium - sweet dracula theme
+Kitty terminal
