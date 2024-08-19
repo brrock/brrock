@@ -26,11 +26,11 @@
 - [Remove java 20](https://github.com/ChrisTitusTech/winutil/pull/2095) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - Connects your Fujitsu Airstage air conditioner to Home Assistant.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [brrock/brrock](https://github.com/brrock/brrock) - 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 # My setup
 
 Debain Linux dual boot with Win11 pro
