@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
-- [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
 ### 🌱 My latest projects
 
+- [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/website](https://github.com/brrock/website) - 
-- [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 ### 🔨 My recent Pull Requests
 
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
