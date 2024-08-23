@@ -26,11 +26,11 @@
 - [Remove java 20](https://github.com/ChrisTitusTech/winutil/pull/2095) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 - [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - Connects your Fujitsu Airstage air conditioner to Home Assistant.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
-- [brrock/brrock](https://github.com/brrock/brrock) - 
 # My setup
 
 Debain Linux dual boot with Win11 pro
