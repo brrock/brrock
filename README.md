@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
+- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
@@ -19,18 +19,18 @@
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 ### 🔨 My recent Pull Requests
 
+- [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
+- [Create github action to fethc latest kernel](https://github.com/brrock/myos/pull/3) on [brrock/myos](https://github.com/brrock/myos)
+- [Clean up sripct](https://github.com/brrock/myos/pull/2) on [brrock/myos](https://github.com/brrock/myos)
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 - [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-- [Add Debian to installation.md](https://github.com/hyprwm/hyprland-wiki/pull/733) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-- [Revert &#34;Bump eslint from 8.57.0 to 9.6.0&#34;](https://github.com/brrock/gamex/pull/6) on [brrock/gamex](https://github.com/brrock/gamex)
-- [Remove java 20](https://github.com/ChrisTitusTech/winutil/pull/2095) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [brrock/personal-obsidian](https://github.com/brrock/personal-obsidian) - 
 - [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 - [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - Connects your Fujitsu Airstage air conditioner to Home Assistant.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 # My setup
 
 Debain Linux dual boot with Win11 pro
