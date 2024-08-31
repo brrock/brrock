@@ -26,11 +26,11 @@
 - [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 ### ⭐ Recent Stars
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [brrock/personal-obsidian](https://github.com/brrock/personal-obsidian) - 
 - [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 - [danielkaldheim/ha_airstage](https://github.com/danielkaldheim/ha_airstage) - Connects your Fujitsu Airstage air conditioner to Home Assistant.
-- [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 # My setup
 
 Debain Linux dual boot with Win11 pro
