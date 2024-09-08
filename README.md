@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
-- [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 ### 🌱 My latest projects
 
+- [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
 - [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 - [brrock/gatbsy-blog](https://github.com/brrock/gatbsy-blog) - 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 ### 🔨 My recent Pull Requests
 
 - [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
