@@ -5,9 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 ### 🌱 My latest projects
