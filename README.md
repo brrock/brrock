@@ -26,11 +26,11 @@
 - [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 ### ⭐ Recent Stars
 
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [brrock/personal-obsidian](https://github.com/brrock/personal-obsidian) - 
-- [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 # My setup
 
 Arch Linux dual boot with Win11 pro
