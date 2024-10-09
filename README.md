@@ -26,11 +26,11 @@
 - [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 ### ⭐ Recent Stars
 
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that&#39;s block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
 - [yxx4c/prisma-extension-redis](https://github.com/yxx4c/prisma-extension-redis) - Extensive Prisma extension designed for efficient caching and cache invalidation using Redis and Dragonfly Databases
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 # My setup
 
 Arch Linux dual boot with Win11 pro
