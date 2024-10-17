@@ -19,18 +19,18 @@
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 ### 🔨 My recent Pull Requests
 
+- [Feat: Add deno support in create-next-app](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
 - [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
 - [Create github action to fethc latest kernel](https://github.com/brrock/myos/pull/3) on [brrock/myos](https://github.com/brrock/myos)
 - [Clean up sripct](https://github.com/brrock/myos/pull/2) on [brrock/myos](https://github.com/brrock/myos)
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
-- [Change the Debian section and add unbuntu](https://github.com/hyprwm/hyprland-wiki/pull/740) on [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 ### ⭐ Recent Stars
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that&#39;s block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
 - [yxx4c/prisma-extension-redis](https://github.com/yxx4c/prisma-extension-redis) - Extensive Prisma extension designed for efficient caching and cache invalidation using Redis and Dragonfly Databases
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 # My setup
 
 Arch Linux dual boot with Win11 pro
