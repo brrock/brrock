@@ -19,7 +19,7 @@
 - [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
 ### 🔨 My recent Pull Requests
 
-- [Feat: Add deno support in create-next-app](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
+- [Feat: Add deno support in create-next-app and add docs](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
 - [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
 - [Create github action to fethc latest kernel](https://github.com/brrock/myos/pull/3) on [brrock/myos](https://github.com/brrock/myos)
 - [Clean up sripct](https://github.com/brrock/myos/pull/2) on [brrock/myos](https://github.com/brrock/myos)
