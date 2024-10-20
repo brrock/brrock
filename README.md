@@ -26,11 +26,11 @@
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 ### ⭐ Recent Stars
 
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that&#39;s block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
-- [yxx4c/prisma-extension-redis](https://github.com/yxx4c/prisma-extension-redis) - Extensive Prisma extension designed for efficient caching and cache invalidation using Redis and Dragonfly Databases
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 # My setup
 
 Arch Linux dual boot with Win11 pro
