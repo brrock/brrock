@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
-- [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 ### 🌱 My latest projects
 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
@@ -26,11 +26,11 @@
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 ### ⭐ Recent Stars
 
+- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
+- [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 # My setup
 
 Arch Linux dual boot with Win11 pro
