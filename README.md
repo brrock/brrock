@@ -26,11 +26,11 @@
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 ### ⭐ Recent Stars
 
-- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [brrock/website](https://github.com/brrock/website) - 
+- [brrock/etsy-worker](https://github.com/brrock/etsy-worker) - 
+- [brrock/dotfiles](https://github.com/brrock/dotfiles) - My person config / dotfiles
+- [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 # My setup
 
 Arch Linux dual boot with Win11 pro
