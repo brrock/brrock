@@ -26,11 +26,11 @@
 - [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 ### ⭐ Recent Stars
 
+- [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) - 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.
-- [brrock/website](https://github.com/brrock/website) - 
-- [brrock/etsy-worker](https://github.com/brrock/etsy-worker) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
