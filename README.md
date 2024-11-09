@@ -5,9 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 ### 🌱 My latest projects
