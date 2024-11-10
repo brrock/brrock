@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
-- [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 ### 🌱 My latest projects
 
+- [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
-- [brrock/gamex-backend](https://github.com/brrock/gamex-backend) - Backend for GameX 
 ### 🔨 My recent Pull Requests
 
 - [Feat: Add deno support in create-next-app and add docs](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
