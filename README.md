@@ -19,18 +19,18 @@
 - [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
 ### 🔨 My recent Pull Requests
 
+- [Complete refactor - next js 15, app router and shadcn ui](https://github.com/bejamas/notion-nextjs-demo/pull/1) on [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo)
 - [Feat: Add deno support in create-next-app and add docs](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
 - [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
 - [Create github action to fethc latest kernel](https://github.com/brrock/myos/pull/3) on [brrock/myos](https://github.com/brrock/myos)
 - [Clean up sripct](https://github.com/brrock/myos/pull/2) on [brrock/myos](https://github.com/brrock/myos)
-- [Refactor Hyprland.sh ](https://github.com/JaKooLit/Debian-Hyprland/pull/142) on [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland)
 ### ⭐ Recent Stars
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
-- [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) - 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.
 # My setup
 
 Arch Linux dual boot with Win11 pro
