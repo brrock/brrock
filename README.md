@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 ### 🌱 My latest projects
 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
