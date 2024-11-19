@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/docs](https://github.com/brrock/docs) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/next-js-tech-blog](https://github.com/brrock/next-js-tech-blog) - 
-- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🌱 My latest projects
 
+- [brrock/docs](https://github.com/brrock/docs) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
-- [brrock/myos](https://github.com/brrock/myos) - My simple linux OS
 ### 🔨 My recent Pull Requests
 
 - [Complete refactor - next js 15, app router and shadcn ui](https://github.com/bejamas/notion-nextjs-demo/pull/1) on [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo)
@@ -26,11 +26,11 @@
 - [Clean up sripct](https://github.com/brrock/myos/pull/2) on [brrock/myos](https://github.com/brrock/myos)
 ### ⭐ Recent Stars
 
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 # My setup
 
 Arch Linux dual boot with Win11 pro
