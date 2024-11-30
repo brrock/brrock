@@ -5,10 +5,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [Benjy-Ross-s-websites/lavrelbs](https://github.com/Benjy-Ross-s-websites/lavrelbs) - 
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 ### 🌱 My latest projects
 
