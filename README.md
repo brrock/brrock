@@ -19,11 +19,11 @@
 - [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 ### 🔨 My recent Pull Requests
 
+- [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 - [fix docker image](https://github.com/GameX-Fast-gaming-site/Cookie/pull/1) on [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie)
 - [Feat: Add and run  prettier](https://github.com/kolbytn/mindcraft/pull/332) on [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 - [Complete refactor - next js 15, app router and shadcn ui](https://github.com/bejamas/notion-nextjs-demo/pull/1) on [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo)
 - [Feat: Add deno support in create-next-app and add docs](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
-- [update](https://github.com/brrock/myos/pull/4) on [brrock/myos](https://github.com/brrock/myos)
 ### ⭐ Recent Stars
 
 - [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
