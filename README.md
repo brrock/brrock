@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/launchly](https://github.com/brrock/launchly) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [Benjy-Ross-s-websites/lavrelbs](https://github.com/Benjy-Ross-s-websites/lavrelbs) - 
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
-- [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 ### 🌱 My latest projects
 
+- [brrock/launchly](https://github.com/brrock/launchly) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/Taxonomy](https://github.com/brrock/Taxonomy) - My fork of taxonomy that makes it actually usable and up to update 
 ### 🔨 My recent Pull Requests
 
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
