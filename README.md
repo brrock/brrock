@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/launchly](https://github.com/brrock/launchly) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
+- [brrock/launchly](https://github.com/brrock/launchly) - 
 - [Benjy-Ross-s-websites/lavrelbs](https://github.com/Benjy-Ross-s-websites/lavrelbs) - 
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
@@ -19,18 +19,18 @@
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🔨 My recent Pull Requests
 
+- [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 - [fix docker image](https://github.com/GameX-Fast-gaming-site/Cookie/pull/1) on [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie)
 - [Feat: Add and run  prettier](https://github.com/kolbytn/mindcraft/pull/332) on [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 - [Complete refactor - next js 15, app router and shadcn ui](https://github.com/bejamas/notion-nextjs-demo/pull/1) on [bejamas/notion-nextjs-demo](https://github.com/bejamas/notion-nextjs-demo)
-- [Feat: Add deno support in create-next-app and add docs](https://github.com/vercel/next.js/pull/71396) on [vercel/next.js](https://github.com/vercel/next.js)
 ### ⭐ Recent Stars
 
-- [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
-- [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
-- [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js 
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast!
+- [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
+- [actions4gh/setup-gh](https://github.com/actions4gh/setup-gh) - 👨‍💻 Install &amp; configure the GitHub CLI (gh) in your GitHub Actions runner
 # My setup
 
 Arch Linux dual boot with Win11 pro
