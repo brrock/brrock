@@ -19,11 +19,11 @@
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🔨 My recent Pull Requests
 
+- [feat: sync changes from Gitea (2024-12-05)](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 - [fix docker image](https://github.com/GameX-Fast-gaming-site/Cookie/pull/1) on [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie)
-- [Feat: Add and run  prettier](https://github.com/kolbytn/mindcraft/pull/332) on [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft)
 ### ⭐ Recent Stars
 
 - [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
