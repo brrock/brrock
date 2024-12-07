@@ -19,7 +19,7 @@
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🔨 My recent Pull Requests
 
-- [feat: sync changes from Gitea (2024-12-05)](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
+- [Feat: Make  GameX more production ready](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
