@@ -26,11 +26,11 @@
 - [fix docker image](https://github.com/GameX-Fast-gaming-site/Cookie/pull/1) on [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie)
 ### ⭐ Recent Stars
 
+- [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland&#39;s GPU-accelerated screen locking utility
+- [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
-- [actions4gh/setup-gh](https://github.com/actions4gh/setup-gh) - 👨‍💻 Install &amp; configure the GitHub CLI (gh) in your GitHub Actions runner
 # My setup
 
 Arch Linux dual boot with Win11 pro
