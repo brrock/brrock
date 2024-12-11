@@ -19,18 +19,18 @@
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🔨 My recent Pull Requests
 
+- [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Feat: Make  GameX more production ready](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
-- [fix docker image](https://github.com/GameX-Fast-gaming-site/Cookie/pull/1) on [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie)
 ### ⭐ Recent Stars
 
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland&#39;s GPU-accelerated screen locking utility
 - [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [betterstack-community/uptime-badges](https://github.com/betterstack-community/uptime-badges) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
