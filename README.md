@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - Search for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland&#39;s GPU-accelerated screen locking utility
 - [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 # My setup
 
 Arch Linux dual boot with Win11 pro
