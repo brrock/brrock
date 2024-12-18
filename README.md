@@ -27,7 +27,7 @@
 ### ⭐ Recent Stars
 
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
-- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - Search for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
+- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - AI chat and search for text, news, images and videos using the DuckDuckGo.com search engine.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland&#39;s GPU-accelerated screen locking utility
 - [CodingWonders/updgui](https://github.com/CodingWonders/updgui) - UpdGUI - A simple PowerShell front-end for PSWindowsUpdate
