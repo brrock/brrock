@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/launchly](https://github.com/brrock/launchly) - 
 - [Benjy-Ross-s-websites/lavrelbs](https://github.com/Benjy-Ross-s-websites/lavrelbs) - 
-- [brrock/docs](https://github.com/brrock/docs) - 
 ### 🌱 My latest projects
 
+- [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/launchly](https://github.com/brrock/launchly) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
 - [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
-- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🔨 My recent Pull Requests
 
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
