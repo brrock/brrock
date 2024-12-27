@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [mmuldo/nvim-typecraft](https://github.com/mmuldo/nvim-typecraft) - neovim config following typecraft tutorial
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
 - [felipe-bergamaschi/vite-router](https://github.com/felipe-bergamaschi/vite-router) - File system routing for React &#43; Typescript applications using Vite
 - [akash3444/shadcn-ui-blocks](https://github.com/akash3444/shadcn-ui-blocks) - Customized Shadcn UI component and blocks. Just copy &amp; Paste!
-- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 # My setup
 
 Arch Linux dual boot with Win11 pro
