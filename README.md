@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/launchly](https://github.com/brrock/launchly) - 
-- [Benjy-Ross-s-websites/lavrelbs](https://github.com/Benjy-Ross-s-websites/lavrelbs) - 
 ### 🌱 My latest projects
 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
 - [GrassBlock1/decap-cms-oauth-vercel](https://github.com/GrassBlock1/decap-cms-oauth-vercel) - Use decap CMS for sites hosted on Vercel.
 - [mmuldo/nvim-typecraft](https://github.com/mmuldo/nvim-typecraft) - neovim config following typecraft tutorial
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
-- [felipe-bergamaschi/vite-router](https://github.com/felipe-bergamaschi/vite-router) - File system routing for React &#43; Typescript applications using Vite
 # My setup
 
 Arch Linux dual boot with Win11 pro
