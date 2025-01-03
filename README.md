@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [code-env/recap](https://github.com/code-env/recap) - 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
 - [GrassBlock1/decap-cms-oauth-vercel](https://github.com/GrassBlock1/decap-cms-oauth-vercel) - Use decap CMS for sites hosted on Vercel.
-- [mmuldo/nvim-typecraft](https://github.com/mmuldo/nvim-typecraft) - neovim config following typecraft tutorial
 # My setup
 
 Arch Linux dual boot with Win11 pro
