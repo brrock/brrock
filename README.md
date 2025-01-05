@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland) - A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, and troubleshooting advice.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [code-env/recap](https://github.com/code-env/recap) - 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
-- [GrassBlock1/decap-cms-oauth-vercel](https://github.com/GrassBlock1/decap-cms-oauth-vercel) - Use decap CMS for sites hosted on Vercel.
 # My setup
 
 Arch Linux dual boot with Win11 pro
