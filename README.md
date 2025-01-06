@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland) - A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, and troubleshooting advice.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [code-env/recap](https://github.com/code-env/recap) - 
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 # My setup
 
 Arch Linux dual boot with Win11 pro
