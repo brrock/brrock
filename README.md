@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/gamex](https://github.com/brrock/gamex) - 
+- [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
-- [GameX-Fast-gaming-site/Cookie](https://github.com/GameX-Fast-gaming-site/Cookie) - 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 ### 🌱 My latest projects
 
+- [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/launchly](https://github.com/brrock/launchly) - 
 - [brrock/docs](https://github.com/brrock/docs) - 
 - [brrock/simpletree](https://github.com/brrock/simpletree) - Simple tool - probs won&#39;t update but cool
-- [brrock/mathsquizapp](https://github.com/brrock/mathsquizapp) - 
 ### 🔨 My recent Pull Requests
 
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [brrock/binaries](https://github.com/brrock/binaries) - 
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 # My setup
 
 Arch Linux dual boot with Win11 pro
