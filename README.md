@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/binaries](https://github.com/brrock/binaries) - 
+- [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
