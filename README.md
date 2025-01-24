@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 ### 🌱 My latest projects
 
+- [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/launchly](https://github.com/brrock/launchly) - 
-- [brrock/docs](https://github.com/brrock/docs) - 
 ### 🔨 My recent Pull Requests
 
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
