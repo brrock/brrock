@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [brrock/dockerpi](https://github.com/brrock/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [Star-tears/mc-launcher-core](https://github.com/Star-tears/mc-launcher-core) - This is an mc launcher core written in Rust.
 - [JafKc/siglauncher](https://github.com/JafKc/siglauncher) - A simple Minecraft Launcher made with Rust.
 - [brrock/binaries](https://github.com/brrock/binaries) - 
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 # My setup
 
 Arch Linux dual boot with Win11 pro
