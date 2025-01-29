@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system &#43; livecd
 - [brrock/dockerpi](https://github.com/brrock/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [Star-tears/mc-launcher-core](https://github.com/Star-tears/mc-launcher-core) - This is an mc launcher core written in Rust.
 - [JafKc/siglauncher](https://github.com/JafKc/siglauncher) - A simple Minecraft Launcher made with Rust.
-- [brrock/binaries](https://github.com/brrock/binaries) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
