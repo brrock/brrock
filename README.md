@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 - [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/gamex](https://github.com/brrock/gamex) - 
-- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🌱 My latest projects
 
+- [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 - [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [brrock/binaries](https://github.com/brrock/binaries) - 
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
-- [brrock/launchly](https://github.com/brrock/launchly) - 
 ### 🔨 My recent Pull Requests
 
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
@@ -26,11 +26,11 @@
 - [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
+- [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system &#43; livecd
 - [brrock/dockerpi](https://github.com/brrock/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
 - [brrock/linkr](https://github.com/brrock/linkr) - 
 - [Star-tears/mc-launcher-core](https://github.com/Star-tears/mc-launcher-core) - This is an mc launcher core written in Rust.
-- [JafKc/siglauncher](https://github.com/JafKc/siglauncher) - A simple Minecraft Launcher made with Rust.
 # My setup
 
 Arch Linux dual boot with Win11 pro
