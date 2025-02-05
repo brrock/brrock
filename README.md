@@ -19,11 +19,11 @@
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 ### 🔨 My recent Pull Requests
 
+- [Master](https://github.com/brrock/hasupervised-docker/pull/1) on [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker)
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Feat: Make  GameX more production ready](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
-- [Create deps.yaml](https://github.com/brrock/next-template/pull/1) on [brrock/next-template](https://github.com/brrock/next-template)
 ### ⭐ Recent Stars
 
 - [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
