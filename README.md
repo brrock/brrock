@@ -26,11 +26,11 @@
 - [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
+- [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system &#43; livecd
 - [brrock/dockerpi](https://github.com/brrock/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
-- [brrock/linkr](https://github.com/brrock/linkr) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
