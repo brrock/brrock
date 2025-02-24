@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/imputest](https://github.com/brrock/imputest) - 
 - [brrock/nextdocker](https://github.com/brrock/nextdocker) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 - [brrock/simplemdweb](https://github.com/brrock/simplemdweb) - Hosts markdown into a simple web page
-- [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 ### 🌱 My latest projects
 
 - [brrock/imputest](https://github.com/brrock/imputest) - 
