@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/imputest](https://github.com/brrock/imputest) - 
 - [brrock/nextdocker](https://github.com/brrock/nextdocker) - 
 - [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
-- [brrock/simplemdweb](https://github.com/brrock/simplemdweb) - Hosts markdown into a simple web page
 ### 🌱 My latest projects
 
 - [brrock/imputest](https://github.com/brrock/imputest) - 
@@ -19,11 +19,11 @@
 - [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 ### 🔨 My recent Pull Requests
 
+- [feat(self-host/ai): pass in the ollama envs into docker compose](https://github.com/mendableai/firecrawl/pull/1269) on [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [Master](https://github.com/brrock/hasupervised-docker/pull/1) on [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker)
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Feat: Make  GameX more production ready](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
-- [feat: sync changes from Gitea (2024-12-03)](https://github.com/brrock/gamex/pull/91) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager 
