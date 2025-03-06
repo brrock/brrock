@@ -36,4 +36,4 @@ Kitty terminal
 Chris Titus Tech Winutil 1 PR
 
 Hyprland wiki 2 PRs
-
+Firecrawl 1 PR - critical self host fix
