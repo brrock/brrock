@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/coursework](https://github.com/brrock/coursework) - 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 - [brrock/imputest](https://github.com/brrock/imputest) - 
 - [brrock/nextdocker](https://github.com/brrock/nextdocker) - 
-- [brrock/ronotbroai](https://github.com/brrock/ronotbroai) - 
 ### 🌱 My latest projects
 
+- [brrock/coursework](https://github.com/brrock/coursework) - 
 - [brrock/imputest](https://github.com/brrock/imputest) - 
 - [brrock/nextdocker](https://github.com/brrock/nextdocker) - 
 - [brrock/simplemdweb](https://github.com/brrock/simplemdweb) - Hosts markdown into a simple web page
 - [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
-- [brrock/buntestapis](https://github.com/brrock/buntestapis) - nextjs error where bun runtime isnt working
 ### 🔨 My recent Pull Requests
 
 - [feat(self-host/ai): pass in the ollama envs into docker compose](https://github.com/mendableai/firecrawl/pull/1269) on [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
