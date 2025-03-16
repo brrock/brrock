@@ -26,11 +26,11 @@
 - [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
+- [Botspot/adopt-a-developer](https://github.com/Botspot/adopt-a-developer) - Donate to open source developers without needing to spend any money yourself. This watches video advertisements in a background web browser, and the revenue gets sent to your developer of choice.
 - [3rfaan/dotfiles](https://github.com/3rfaan/dotfiles) - Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager 
-- [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 # My setup
 
 Arch Linux dual boot with Win11 pro
