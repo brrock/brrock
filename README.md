@@ -19,18 +19,18 @@
 - [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker) - 
 ### 🔨 My recent Pull Requests
 
+- [Plenty of fixes and additions - add react eror boundary, update cli logger in dev, switch to react plguin swc and adds cli banner](https://github.com/wakujs/waku/pull/1323) on [wakujs/waku](https://github.com/wakujs/waku)
 - [feat(self-host/ai): pass in the ollama envs into docker compose](https://github.com/mendableai/firecrawl/pull/1269) on [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [Master](https://github.com/brrock/hasupervised-docker/pull/1) on [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker)
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 - [Feat: Make  GameX more production ready](https://github.com/brrock/gamex/pull/93) on [brrock/gamex](https://github.com/brrock/gamex)
-- [feat: sync changes from Gitea (2024-12-04)](https://github.com/brrock/gamex/pull/92) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
+- [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [Botspot/adopt-a-developer](https://github.com/Botspot/adopt-a-developer) - Donate to open source developers without needing to spend any money yourself. This watches video advertisements in a background web browser, and the revenue gets sent to your developer of choice.
 - [3rfaan/dotfiles](https://github.com/3rfaan/dotfiles) - Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM
-- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager 
 # My setup
 
 Arch Linux dual boot with Win11 pro
