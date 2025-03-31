@@ -26,11 +26,11 @@
 - [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
+- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [Botspot/adopt-a-developer](https://github.com/Botspot/adopt-a-developer) - Donate to open source developers without needing to spend any money yourself. This watches video advertisements in a background web browser, and the revenue gets sent to your developer of choice.
 - [3rfaan/dotfiles](https://github.com/3rfaan/dotfiles) - Arch Linux Installation and Customization Guide. This configuration uses Wayland as display protocol and Hyprland as compositor. Also included are Neovim config files written in Lua and other programs.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
-- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM
 # My setup
 
 Arch Linux dual boot with Win11 pro
