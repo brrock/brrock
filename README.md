@@ -22,15 +22,13 @@
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 - [Plenty of fixes and additions - add react eror boundary, update cli logger in dev, switch to react plguin swc and adds cli banner](https://github.com/wakujs/waku/pull/1323) on [wakujs/waku](https://github.com/wakujs/waku)
 - [feat(self-host/ai): pass in the ollama envs into docker compose](https://github.com/mendableai/firecrawl/pull/1269) on [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
-- [Master](https://github.com/brrock/hasupervised-docker/pull/1) on [brrock/hasupervised-docker](https://github.com/brrock/hasupervised-docker)
-- [Fix vercel deployment](https://github.com/brrock/gamex/pull/94) on [brrock/gamex](https://github.com/brrock/gamex)
 ### ⭐ Recent Stars
 
+- [stormynight9/clerk-shadcn-theme](https://github.com/stormynight9/clerk-shadcn-theme) - Easily synchronize your Clerk components with your shadcn/ui styles.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js
 - [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
-- [Botspot/adopt-a-developer](https://github.com/Botspot/adopt-a-developer) - Donate to open source developers without needing to spend any money yourself. This watches video advertisements in a background web browser, and the revenue gets sent to your developer of choice.
 # My setup
 
 Arch Linux dual boot with Win11 pro
