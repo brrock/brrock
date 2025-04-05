@@ -23,11 +23,11 @@
 - [Plenty of fixes and additions - add react eror boundary, update cli logger in dev, switch to react plguin swc and adds cli banner](https://github.com/wakujs/waku/pull/1323) on [wakujs/waku](https://github.com/wakujs/waku)
 ### ⭐ Recent Stars
 
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [stormynight9/clerk-shadcn-theme](https://github.com/stormynight9/clerk-shadcn-theme) - Easily synchronize your Clerk components with your shadcn/ui styles.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js
-- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 # My setup
 
 Arch Linux dual boot with Win11 pro
