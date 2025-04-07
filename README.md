@@ -23,11 +23,11 @@
 - [Plenty of fixes and additions - add react eror boundary, update cli logger in dev, switch to react plguin swc and adds cli banner](https://github.com/wakujs/waku/pull/1323) on [wakujs/waku](https://github.com/wakujs/waku)
 ### ⭐ Recent Stars
 
+- [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [stormynight9/clerk-shadcn-theme](https://github.com/stormynight9/clerk-shadcn-theme) - Easily synchronize your Clerk components with your shadcn/ui styles.
-- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 # My setup
 
 Arch Linux dual boot with Win11 pro
