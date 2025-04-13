@@ -19,8 +19,8 @@
 - [brrock/simplemdweb](https://github.com/brrock/simplemdweb) - Hosts markdown into a simple web page
 ### 🔨 My recent Pull Requests
 
+- [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
-- [Plenty of fixes and additions - add react eror boundary, update cli logger in dev, switch to react plguin swc and adds cli banner](https://github.com/wakujs/waku/pull/1323) on [wakujs/waku](https://github.com/wakujs/waku)
 ### ⭐ Recent Stars
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
