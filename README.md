@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/coursework](https://github.com/brrock/coursework) - 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [brrock/simpleserve](https://github.com/brrock/simpleserve) - Serves choosen folder with hono
 ### 🌱 My latest projects
 
+- [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/coursework](https://github.com/brrock/coursework) - 
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/imputest](https://github.com/brrock/imputest) - 
-- [brrock/nextdocker](https://github.com/brrock/nextdocker) - 
 ### 🔨 My recent Pull Requests
 
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
