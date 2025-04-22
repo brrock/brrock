@@ -23,11 +23,11 @@
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [snowballstem/snowball](https://github.com/snowballstem/snowball) - Snowball compiler and stemming algorithms
 - [thecodacus/OpenWebContainer](https://github.com/thecodacus/OpenWebContainer) - A browser-based virtual container runtime that enables server-like JavaScript execution environments directly in the browser. OpenWebContainer provides a sandboxed environment with a virtual file system, process management, and shell capabilities, making it possible to run server-side JavaScript applications entirely in the browser.
 - [tombl/linux](https://github.com/tombl/linux) - Linux kernel for WebAssembly
 - [rocktimsaikia/github-dlr](https://github.com/rocktimsaikia/github-dlr) - Download individual files and folders from Github recursively.
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
-- [fwcd/archlinuxarm-images](https://github.com/fwcd/archlinuxarm-images) - Unofficial, automated Arch Linux ARM image builds, e.g. for Raspberry Pis
 # My setup
 
 Arch Linux dual boot with Win11 pro
