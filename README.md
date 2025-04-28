@@ -5,29 +5,29 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/coursework](https://github.com/brrock/coursework) - 
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 ### 🌱 My latest projects
 
+- [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/coursework](https://github.com/brrock/coursework) - 
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
-- [brrock/imputest](https://github.com/brrock/imputest) - 
 ### 🔨 My recent Pull Requests
 
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [lucia-auth/example-nextjs-github-oauth](https://github.com/lucia-auth/example-nextjs-github-oauth) - GitHub OAuth example in Next.js
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Multi-provider AI chatbot client powered by MCP
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [moto-browser/moto](https://github.com/moto-browser/moto) - An experimental browser based on Servo.
-- [snowballstem/snowball](https://github.com/snowballstem/snowball) - Snowball compiler and stemming algorithms
 # My setup
 
 Arch Linux dual boot with Win11 pro
