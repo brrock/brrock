@@ -23,11 +23,11 @@
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lucia-auth/example-nextjs-github-oauth](https://github.com/lucia-auth/example-nextjs-github-oauth) - GitHub OAuth example in Next.js
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Multi-provider AI chatbot client powered by MCP
 - [brrock/archgz](https://github.com/brrock/archgz) - 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [moto-browser/moto](https://github.com/moto-browser/moto) - An experimental browser based on Servo.
 # My setup
 
 Arch Linux dual boot with Win11 pro
