@@ -5,29 +5,29 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 - [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
-- [brrock/coursework](https://github.com/brrock/coursework) - 
 ### 🌱 My latest projects
 
+- [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 - [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 - [brrock/coursework](https://github.com/brrock/coursework) - 
-- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 ### 🔨 My recent Pull Requests
 
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lucia-auth/example-nextjs-github-oauth](https://github.com/lucia-auth/example-nextjs-github-oauth) - GitHub OAuth example in Next.js
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Multi-provider AI chatbot client powered by MCP
-- [brrock/archgz](https://github.com/brrock/archgz) - 
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 # My setup
 
 Arch Linux dual boot with Win11 pro
