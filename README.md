@@ -23,11 +23,11 @@
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [adamjames/raspi-packer](https://github.com/adamjames/raspi-packer) - Build and bootstrap ARM images that are pre-configured and ready to flash!
+- [adamjames/dockerpi](https://github.com/adamjames/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
+- [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 - [ChrisTitusTech/dwl-ubuntu](https://github.com/ChrisTitusTech/dwl-ubuntu) - 
-- [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 # My setup
 
 Arch Linux dual boot with Win11 pro
