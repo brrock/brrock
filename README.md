@@ -7,8 +7,8 @@
 
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
-- [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
+- [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 - [brrock/lightPi](https://github.com/brrock/lightPi) - 
 ### 🌱 My latest projects
 
