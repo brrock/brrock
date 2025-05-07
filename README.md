@@ -23,11 +23,11 @@
 - [Fix: vite server crashing ](https://github.com/prisma/prisma/pull/26746) on [prisma/prisma](https://github.com/prisma/prisma)
 ### ⭐ Recent Stars
 
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [adamjames/raspi-packer](https://github.com/adamjames/raspi-packer) - Build and bootstrap ARM images that are pre-configured and ready to flash!
-- [adamjames/dockerpi](https://github.com/adamjames/dockerpi) - A Virtualised up to date Raspberry Pi inside a Docker image
 # My setup
 
 Arch Linux dual boot with Win11 pro
