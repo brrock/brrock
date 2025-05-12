@@ -23,11 +23,11 @@
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
 
+- [brrock/minileague](https://github.com/brrock/minileague) - 
+- [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [KRTirtho/yt-dlp-slim](https://github.com/KRTirtho/yt-dlp-slim) - A slimmed down version of yt-dlp. Removes all extractors except youtube
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun and Deno
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 # My setup
 
 Arch Linux dual boot with Win11 pro
