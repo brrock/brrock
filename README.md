@@ -19,6 +19,7 @@
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 ### 🔨 My recent Pull Requests
 
+- [Feat: Add docker and vercel support ](https://github.com/cgoinglove/mcp-client-chatbot/pull/33) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
