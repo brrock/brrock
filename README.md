@@ -24,11 +24,11 @@
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
 
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [brrock/minileague](https://github.com/brrock/minileague) - 
-- [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
-- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 # My setup
 
 Arch Linux dual boot with Win11 pro
