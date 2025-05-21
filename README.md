@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 - [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
-- [brrock/lightPi](https://github.com/brrock/lightPi) - 
 ### 🌱 My latest projects
 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
@@ -19,6 +19,8 @@
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 ### 🔨 My recent Pull Requests
 
+- [Feat: Add file based MCP servers and fix discord tag](https://github.com/cgoinglove/mcp-client-chatbot/pull/47) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [Feat: Add env variables for deafult model and ollama url](https://github.com/cgoinglove/mcp-client-chatbot/pull/46) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Feat: Add docker and vercel support ](https://github.com/cgoinglove/mcp-client-chatbot/pull/33) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
