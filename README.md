@@ -26,11 +26,11 @@
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [akinleyeisrael/auth-secret-generator](https://github.com/akinleyeisrael/auth-secret-generator) - An app to genrate random base64 characters on request for next JS applications 
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
-- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 # My setup
 
 Arch Linux dual boot with Win11 pro
