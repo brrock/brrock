@@ -26,11 +26,11 @@
 - [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [akinleyeisrael/auth-secret-generator](https://github.com/akinleyeisrael/auth-secret-generator) - An app to genrate random base64 characters on request for next JS applications 
-- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 # My setup
 
 Arch Linux dual boot with Win11 pro
