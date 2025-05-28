@@ -19,11 +19,11 @@
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 ### 🔨 My recent Pull Requests
 
+- [Add colours](https://github.com/cgoinglove/mcp-client-chatbot/pull/51) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Feat: Add file based MCP servers and fix discord tag](https://github.com/cgoinglove/mcp-client-chatbot/pull/47) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Feat: Add env variables for ollama url](https://github.com/cgoinglove/mcp-client-chatbot/pull/46) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Feat: Add docker and vercel support ](https://github.com/cgoinglove/mcp-client-chatbot/pull/33) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
-- [Chore: Update arch](https://github.com/CommonArch/core/pull/15) on [CommonArch/core](https://github.com/CommonArch/core)
 ### ⭐ Recent Stars
 
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
