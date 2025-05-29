@@ -26,11 +26,11 @@
 - [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
 ### ⭐ Recent Stars
 
+- [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 - [vercel/mcp-adapter](https://github.com/vercel/mcp-adapter) - Easily spin up an MCP Server on Next.js, Nuxt.js, Svelte.js, and more
 - [rawestmoreland/theme-generator](https://github.com/rawestmoreland/theme-generator) - A theme generator for shadcn/ui
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 # My setup
 
 Arch Linux dual boot with Win11 pro
@@ -48,4 +48,5 @@ Kitty terminal
 Chris Titus Tech Winutil 1 PR
 
 Hyprland wiki 2 PRs
-Firecrawl 1 PR - critical self host fix
+Firecrawl 1 PR - critical self host hot fix
+MCP client chatbot - Add self hosting support, added themes, maintained and created community discord server
