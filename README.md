@@ -48,5 +48,5 @@ Kitty terminal
 Chris Titus Tech Winutil 1 PR
 
 Hyprland wiki 2 PRs
-Firecrawl 1 PR - critical self host hot fix
-MCP client chatbot - Add self hosting support, added themes, maintained and created community discord server
+Firecrawl 1 PR - critical self host hot fix <br/>
+MCP client chatbot - Add self hosting support (vercel and docker), added themes, became a maintainer and created community discord server.
