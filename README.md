@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
-- [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
 ### 🌱 My latest projects
 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
@@ -26,11 +26,11 @@
 - [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
 ### ⭐ Recent Stars
 
+- [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
 - [vercel/mcp-adapter](https://github.com/vercel/mcp-adapter) - Easily spin up an MCP Server on Next.js, Nuxt.js, Svelte.js, and more
-- [rawestmoreland/theme-generator](https://github.com/rawestmoreland/theme-generator) - A theme generator for shadcn/ui
 # My setup
 
 Arch Linux dual boot with Win11 pro
