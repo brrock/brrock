@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
+- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
@@ -19,11 +19,11 @@
 - [brrock/archgz](https://github.com/brrock/archgz) - 
 ### 🔨 My recent Pull Requests
 
+- [Update .env.example with better auth URL](https://github.com/cgoinglove/mcp-client-chatbot/pull/59) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [Update README.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/58) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [Add Claude 4](https://github.com/cgoinglove/mcp-client-chatbot/pull/57) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Add colours](https://github.com/cgoinglove/mcp-client-chatbot/pull/51) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Feat: Add file based MCP servers and fix discord tag](https://github.com/cgoinglove/mcp-client-chatbot/pull/47) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Feat: Add env variables for ollama url](https://github.com/cgoinglove/mcp-client-chatbot/pull/46) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Feat: Add docker and vercel support ](https://github.com/cgoinglove/mcp-client-chatbot/pull/33) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Large refactor ](https://github.com/brrock/dockerpi/pull/1) on [brrock/dockerpi](https://github.com/brrock/dockerpi)
 ### ⭐ Recent Stars
 
 - [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
