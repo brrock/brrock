@@ -26,11 +26,11 @@
 - [Feat: Add file based MCP servers and fix discord tag](https://github.com/cgoinglove/mcp-client-chatbot/pull/47) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [huyouare/manus-mcp](https://github.com/huyouare/manus-mcp) - MCP server that provides Manus-like capabilities
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents 
-- [vercel/mcp-adapter](https://github.com/vercel/mcp-adapter) - Easily spin up an MCP Server on Next.js, Nuxt.js, Svelte.js, and more
 # My setup
 
 Arch Linux dual boot with Win11 pro
