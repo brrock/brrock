@@ -6,31 +6,31 @@
 ### 👷 Check out what I'm currently working on
 
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
+- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
-- [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 ### 🌱 My latest projects
 
+- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 - [brrock/nextjs-github-simple-auth](https://github.com/brrock/nextjs-github-simple-auth) - 
-- [brrock/archgz](https://github.com/brrock/archgz) - 
 ### 🔨 My recent Pull Requests
 
+- [chore(main): release 1.0.0](https://github.com/brrock/mcp-bridge/pull/2) on [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge)
+- [chore: Add more file types to lint staged](https://github.com/cgoinglove/mcp-client-chatbot/pull/76) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [feat: add husky for formatting and checking commits ](https://github.com/cgoinglove/mcp-client-chatbot/pull/71) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Update .env.example with better auth URL](https://github.com/cgoinglove/mcp-client-chatbot/pull/59) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Update README.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/58) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Add Claude 4](https://github.com/cgoinglove/mcp-client-chatbot/pull/57) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Add colours](https://github.com/cgoinglove/mcp-client-chatbot/pull/51) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Feat: Add file based MCP servers and fix discord tag](https://github.com/cgoinglove/mcp-client-chatbot/pull/47) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [cgoinglove/ts-safe](https://github.com/cgoinglove/ts-safe) - 🔗 Safe: A minimalist functional utility for JavaScript/TypeScript that makes error handling and async operations painless. Chain methods fluently with strong type safety, zero dependencies.
+- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [huyouare/manus-mcp](https://github.com/huyouare/manus-mcp) - MCP server that provides Manus-like capabilities
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [t3dotgg/unduck](https://github.com/t3dotgg/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
-- [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 # My setup
 
 Arch Linux dual boot with Win11 pro
