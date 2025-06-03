@@ -5,9 +5,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
-- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
+- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 ### 🌱 My latest projects
@@ -26,11 +26,11 @@
 - [Update README.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/58) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [cgoinglove/ts-safe](https://github.com/cgoinglove/ts-safe) - 🔗 Safe: A minimalist functional utility for JavaScript/TypeScript that makes error handling and async operations painless. Chain methods fluently with strong type safety, zero dependencies.
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [huyouare/manus-mcp](https://github.com/huyouare/manus-mcp) - MCP server that provides Manus-like capabilities
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 # My setup
 
 Arch Linux dual boot with Win11 pro
