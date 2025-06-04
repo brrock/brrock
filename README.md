@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
+- [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 - [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
