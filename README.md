@@ -26,11 +26,11 @@
 - [Update README.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/58) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [adityavardhansharma/t3-desktop](https://github.com/adityavardhansharma/t3-desktop) - 
+- [adityavardhansharma/t3-chat-export-as-html-userscript](https://github.com/adityavardhansharma/t3-chat-export-as-html-userscript) - 
+- [adityavardhansharma/t3-chat-response-time-userscript](https://github.com/adityavardhansharma/t3-chat-response-time-userscript) - 
+- [adityavardhansharma/t3-caht-moveto-previous-question-userscript](https://github.com/adityavardhansharma/t3-caht-moveto-previous-question-userscript) - 
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
-- [cgoinglove/ts-safe](https://github.com/cgoinglove/ts-safe) - 🔗 Safe: A minimalist functional utility for JavaScript/TypeScript that makes error handling and async operations painless. Chain methods fluently with strong type safety, zero dependencies.
-- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
-- [huyouare/manus-mcp](https://github.com/huyouare/manus-mcp) - MCP server that provides Manus-like capabilities
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 # My setup
 
 Arch Linux dual boot with Win11 pro
