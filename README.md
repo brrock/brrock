@@ -26,11 +26,11 @@
 - [Update README.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/58) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [Evren-os/Zaviye](https://github.com/Evren-os/Zaviye) - A simple, personal web app for running my specific AI prompts (text-to-casual, git commits, pronunciation) without the usual bloat
 - [adityavardhansharma/t3-desktop](https://github.com/adityavardhansharma/t3-desktop) - 
 - [adityavardhansharma/t3-chat-export-as-html-userscript](https://github.com/adityavardhansharma/t3-chat-export-as-html-userscript) - 
 - [adityavardhansharma/t3-chat-response-time-userscript](https://github.com/adityavardhansharma/t3-chat-response-time-userscript) - 
 - [adityavardhansharma/t3-caht-moveto-previous-question-userscript](https://github.com/adityavardhansharma/t3-caht-moveto-previous-question-userscript) - 
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 # My setup
 
 Arch Linux dual boot with Win11 pro
