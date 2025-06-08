@@ -19,18 +19,18 @@
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 ### 🔨 My recent Pull Requests
 
-- [feat: add openAI like provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [feat: add openAI compatible provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.0.0](https://github.com/brrock/mcp-bridge/pull/2) on [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge)
 - [chore: Add more file types to lint staged](https://github.com/cgoinglove/mcp-client-chatbot/pull/76) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [feat: add husky for formatting and checking commits ](https://github.com/cgoinglove/mcp-client-chatbot/pull/71) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [Update .env.example with better auth URL](https://github.com/cgoinglove/mcp-client-chatbot/pull/59) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
+- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [Evren-os/Zaviye](https://github.com/Evren-os/Zaviye) - A simple, personal web app for running my specific AI prompts (text-to-casual, git commits, pronunciation) without the usual bloat
 - [adityavardhansharma/t3-desktop](https://github.com/adityavardhansharma/t3-desktop) - 
 - [adityavardhansharma/t3-chat-export-as-html-userscript](https://github.com/adityavardhansharma/t3-chat-export-as-html-userscript) - 
-- [adityavardhansharma/t3-chat-response-time-userscript](https://github.com/adityavardhansharma/t3-chat-response-time-userscript) - 
-- [adityavardhansharma/t3-caht-moveto-previous-question-userscript](https://github.com/adityavardhansharma/t3-caht-moveto-previous-question-userscript) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
