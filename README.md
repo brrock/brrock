@@ -26,11 +26,11 @@
 - [Update .env.example with better auth URL](https://github.com/cgoinglove/mcp-client-chatbot/pull/59) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [extramix/t3-chat-cloneathon](https://github.com/extramix/t3-chat-cloneathon) - 
+- [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon) - 
+- [dzhng/mcp-client-auth](https://github.com/dzhng/mcp-client-auth) - A TypeScript library providing OAuth2 authentication utilities for Model Context Protocol (MCP) clients. This library simplifies the process of adding OAuth authentication to MCP client implementations.
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
-- [Evren-os/Zaviye](https://github.com/Evren-os/Zaviye) - A simple, personal web app for running my specific AI prompts (text-to-casual, git commits, pronunciation) without the usual bloat
-- [adityavardhansharma/t3-desktop](https://github.com/adityavardhansharma/t3-desktop) - 
-- [adityavardhansharma/t3-chat-export-as-html-userscript](https://github.com/adityavardhansharma/t3-chat-export-as-html-userscript) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
