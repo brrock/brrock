@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 - [brrock/unduck](https://github.com/brrock/unduck) - A fast, local-first &#34;search engine&#34; for !bang users
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
-- [brrock/amazingrouter](https://github.com/brrock/amazingrouter) - Simple nextjs app router clone in rolldown-vite 
 ### 🌱 My latest projects
 
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
@@ -19,11 +19,11 @@
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 ### 🔨 My recent Pull Requests
 
+- [sync](https://github.com/brrock/portfolio/pull/3) on [brrock/portfolio](https://github.com/brrock/portfolio)
+- [Sync](https://github.com/brrock/portfolio/pull/2) on [brrock/portfolio](https://github.com/brrock/portfolio)
+- [Sync new posts](https://github.com/brrock/portfolio/pull/1) on [brrock/portfolio](https://github.com/brrock/portfolio)
 - [feat: add openAI compatible provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.0.0](https://github.com/brrock/mcp-bridge/pull/2) on [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge)
-- [chore: Add more file types to lint staged](https://github.com/cgoinglove/mcp-client-chatbot/pull/76) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [feat: add husky for formatting and checking commits ](https://github.com/cgoinglove/mcp-client-chatbot/pull/71) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [Update .env.example with better auth URL](https://github.com/cgoinglove/mcp-client-chatbot/pull/59) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
 - [extramix/t3-chat-cloneathon](https://github.com/extramix/t3-chat-cloneathon) - 
