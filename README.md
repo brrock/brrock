@@ -19,11 +19,11 @@
 - [brrock/simple-magic-link-auth-template](https://github.com/brrock/simple-magic-link-auth-template) - Simple template that uses resend, prisma, react email and postgres for magic link auth
 ### 🔨 My recent Pull Requests
 
+- [fix: update adding-openAI-like-providers.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/101) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [sync](https://github.com/brrock/portfolio/pull/3) on [brrock/portfolio](https://github.com/brrock/portfolio)
 - [Sync](https://github.com/brrock/portfolio/pull/2) on [brrock/portfolio](https://github.com/brrock/portfolio)
 - [Sync new posts](https://github.com/brrock/portfolio/pull/1) on [brrock/portfolio](https://github.com/brrock/portfolio)
 - [feat: add openAI compatible provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [chore(main): release 1.0.0](https://github.com/brrock/mcp-bridge/pull/2) on [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge)
 ### ⭐ Recent Stars
 
 - [extramix/t3-chat-cloneathon](https://github.com/extramix/t3-chat-cloneathon) - 
