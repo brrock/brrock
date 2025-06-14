@@ -26,11 +26,11 @@
 - [feat: add openAI compatible provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 ### ⭐ Recent Stars
 
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [extramix/t3-chat-cloneathon](https://github.com/extramix/t3-chat-cloneathon) - 
 - [t3dotgg/t3-cloneathon](https://github.com/t3dotgg/t3-cloneathon) - 
 - [dzhng/mcp-client-auth](https://github.com/dzhng/mcp-client-auth) - A TypeScript library providing OAuth2 authentication utilities for Model Context Protocol (MCP) clients. This library simplifies the process of adding OAuth authentication to MCP client implementations.
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
-- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
