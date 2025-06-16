@@ -5,32 +5,32 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
+- [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
-- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 ### 🌱 My latest projects
 
+- [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
-- [brrock/vite-plugin-rewrite-all](https://github.com/brrock/vite-plugin-rewrite-all) - 
 ### 🔨 My recent Pull Requests
 
-- [fix: update adding-openAI-like-providers.md](https://github.com/cgoinglove/mcp-client-chatbot/pull/101) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [sync](https://github.com/brrock/portfolio/pull/3) on [brrock/portfolio](https://github.com/brrock/portfolio)
-- [Sync](https://github.com/brrock/portfolio/pull/2) on [brrock/portfolio](https://github.com/brrock/portfolio)
-- [Sync new posts](https://github.com/brrock/portfolio/pull/1) on [brrock/portfolio](https://github.com/brrock/portfolio)
-- [feat: add openAI compatible provider support](https://github.com/cgoinglove/mcp-client-chatbot/pull/92) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [feat: credit contributors in releases and changlogs](https://github.com/cgoinglove/mcp-client-chatbot/pull/104) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
+- [chore(main): release 1.0.4](https://github.com/brrock/release-please-test/pull/8) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
+- [chore(main): release 1.0.3](https://github.com/brrock/release-please-test/pull/7) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
+- [chore(main): release 1.0.2](https://github.com/brrock/release-please-test/pull/6) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces.
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
-- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [arthurfiorette/prisma-json-types-generator](https://github.com/arthurfiorette/prisma-json-types-generator) - ⚒️ Changes JsonValues to your custom typescript type.
 # My setup
 
 Arch Linux dual boot with Win11 pro
