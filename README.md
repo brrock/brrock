@@ -7,8 +7,8 @@
 
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
-- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
+- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🌱 My latest projects
 
@@ -19,11 +19,11 @@
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 ### 🔨 My recent Pull Requests
 
+- [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/mcp-client-chatbot/pull/105) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
+- [chore(main): release 1.0.5](https://github.com/brrock/release-please-test/pull/10) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 - [feat: credit contributors in releases and changlogs](https://github.com/cgoinglove/mcp-client-chatbot/pull/104) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 - [chore(main): release 1.0.4](https://github.com/brrock/release-please-test/pull/8) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
-- [chore(main): release 1.0.3](https://github.com/brrock/release-please-test/pull/7) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
-- [chore(main): release 1.0.2](https://github.com/brrock/release-please-test/pull/6) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍
