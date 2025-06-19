@@ -26,11 +26,11 @@
 - [chore(main): release 1.0.4](https://github.com/brrock/release-please-test/pull/8) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.
+- [wingleeio/chat-zeron](https://github.com/wingleeio/chat-zeron) - A unified ai chat app with models from Claude, OpenAI, and Gemini.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces.
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 # My setup
 
 Arch Linux dual boot with Win11 pro
