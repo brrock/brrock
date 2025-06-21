@@ -19,18 +19,18 @@
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 ### 🔨 My recent Pull Requests
 
+- [feat: let the user decide if they wish to have their appID as a subdomain, for self hosted versions that don&#39;t support it](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 - [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/mcp-client-chatbot/pull/105) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.0.5](https://github.com/brrock/release-please-test/pull/10) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 - [feat: credit contributors in releases and changlogs](https://github.com/cgoinglove/mcp-client-chatbot/pull/104) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
-- [chore(main): release 1.0.4](https://github.com/brrock/release-please-test/pull/8) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [Hairetsucodes/NOT-T3-Chat](https://github.com/Hairetsucodes/NOT-T3-Chat) - NOT T3.Chat (Clone of T3.Chat)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [prudentbird/fuseion](https://github.com/prudentbird/fuseion) - 
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.
 - [wingleeio/chat-zeron](https://github.com/wingleeio/chat-zeron) - A unified ai chat app with models from Claude, OpenAI, and Gemini.
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces.
-- [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 # My setup
 
 Arch Linux dual boot with Win11 pro
