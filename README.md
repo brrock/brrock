@@ -26,11 +26,11 @@
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
-- [Hairetsucodes/NOT-T3-Chat](https://github.com/Hairetsucodes/NOT-T3-Chat) - NOT T3.Chat (Clone of T3.Chat)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
-- [prudentbird/fuseion](https://github.com/prudentbird/fuseion) - 
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availability databases (like MySQL, PostgreSQL, Redis, and MongoDB) and run any Docker image with ease.
-- [wingleeio/chat-zeron](https://github.com/wingleeio/chat-zeron) - A unified ai chat app with models from Claude, OpenAI, and Gemini.
+- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks
+- [helioschat/app](https://github.com/helioschat/app) - Blazing-fast, private &amp; open-source SvelteKit LLM chat app
+- [lightfastai/chat](https://github.com/lightfastai/chat) - An open-source, production-ready AI chat application featuring Claude Sonnet 4, GPT-4o, real-time messaging, and modern UI. Built with Next.js 15, Convex, and TypeScript.
 # My setup
 
 Arch Linux dual boot with Win11 pro
