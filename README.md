@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
-- [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
-- [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
+- [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### 🌱 My latest projects
 
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
@@ -19,7 +19,7 @@
 - [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 ### 🔨 My recent Pull Requests
 
-- [feat: let the user decide if they wish to have their appID as a subdomain, for self hosted versions that don&#39;t support it](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
+- [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 - [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/mcp-client-chatbot/pull/105) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [chore(main): release 1.0.5](https://github.com/brrock/release-please-test/pull/10) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 - [feat: credit contributors in releases and changlogs](https://github.com/cgoinglove/mcp-client-chatbot/pull/104) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
