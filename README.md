@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
+- [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
-- [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### 🌱 My latest projects
 
+- [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
-- [brrock/mcp-bridge](https://github.com/brrock/mcp-bridge) - Mcp bridge to convert stdio servers to sse or streamable http
 ### 🔨 My recent Pull Requests
 
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
@@ -26,11 +26,11 @@
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
+- [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks
-- [helioschat/app](https://github.com/helioschat/app) - Blazing-fast, private &amp; open-source SvelteKit LLM chat app
-- [lightfastai/chat](https://github.com/lightfastai/chat) - An open-source, production-ready AI chat application featuring Claude Sonnet 4, GPT-4o, real-time messaging, and modern UI. Built with Next.js 15, Convex, and TypeScript.
 # My setup
 
 Arch Linux dual boot with Win11 pro
