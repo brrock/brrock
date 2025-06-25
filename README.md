@@ -6,8 +6,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
-- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot) - 🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### 🌱 My latest projects
@@ -26,11 +26,11 @@
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [Hairetsucodes/Notate](https://github.com/Hairetsucodes/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI support - all while keeping your data private.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks
 # My setup
 
 Arch Linux dual boot with Win11 pro
