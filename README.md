@@ -26,11 +26,11 @@
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
+- [rudrodip/nexfaster](https://github.com/rudrodip/nexfaster) - React Router integration within Next.js for client-side routing
+- [Huminexdotco/t3dotchat-clone](https://github.com/Huminexdotco/t3dotchat-clone) - 
 - [Hairetsucodes/Notate](https://github.com/Hairetsucodes/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI support - all while keeping your data private.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
-- [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
-- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 # My setup
 
 Arch Linux dual boot with Win11 pro
