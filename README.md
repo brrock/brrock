@@ -26,11 +26,11 @@
 - [chore(main): release 1.1.0](https://github.com/brrock/release-please-test/pull/9) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [rudrodip/nexfaster](https://github.com/rudrodip/nexfaster) - React Router integration within Next.js for client-side routing
 - [Huminexdotco/t3dotchat-clone](https://github.com/Huminexdotco/t3dotchat-clone) - 
-- [Hairetsucodes/Notate](https://github.com/Hairetsucodes/Notate) - Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI support - all while keeping your data private.
 # My setup
 
 Arch Linux dual boot with Win11 pro
