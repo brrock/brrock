@@ -19,18 +19,18 @@
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🔨 My recent Pull Requests
 
+- [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
 - [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/mcp-client-chatbot/pull/119) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 - [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/mcp-client-chatbot/pull/105) on [cgoinglove/mcp-client-chatbot](https://github.com/cgoinglove/mcp-client-chatbot)
-- [chore(main): release 1.0.5](https://github.com/brrock/release-please-test/pull/10) on [brrock/release-please-test](https://github.com/brrock/release-please-test)
 ### ⭐ Recent Stars
 
+- [simonecervini/liquachat](https://github.com/simonecervini/liquachat) - Your private, self-hostable, and local-first AI assistant
+- [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game) - A fun and simple classic pong stye game.
+- [JasirZaeem/nise-chat](https://github.com/JasirZaeem/nise-chat) - Single Binary AI Chat Application for self hosting
+- [jasonhedman/toolkit.dev](https://github.com/jasonhedman/toolkit.dev) - Extensible chatbot with toggleable toolkits and Generative UI
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI&#39;s Grok 3.
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) - The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 # My setup
 
 Arch Linux dual boot with Win11 pro
