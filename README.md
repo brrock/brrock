@@ -5,7 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP &amp; Workflows.
+- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
@@ -26,11 +26,11 @@
 - [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/better-chatbot/pull/105) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [RoNotBroYT/Cricket-game](https://github.com/RoNotBroYT/Cricket-game) - fun simple cricket game
 - [RoNotBroYT/Snake](https://github.com/RoNotBroYT/Snake) - A fun snake game
 - [RoNotBroYT/My-website](https://github.com/RoNotBroYT/My-website) - It is my website 
 - [RoNotBroYT/my-games](https://github.com/RoNotBroYT/my-games) - It has all my games in one website-benjy I have made into website already 
 - [RoNotBroYT/RoNotBroYT-Games](https://github.com/RoNotBroYT/RoNotBroYT-Games) - It has the links to all my games
-- [simonecervini/liquachat](https://github.com/simonecervini/liquachat) - Your private, self-hostable, and local-first AI assistant
 # My setup
 
 Arch Linux dual boot with Win11 pro
