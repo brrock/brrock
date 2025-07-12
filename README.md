@@ -26,11 +26,11 @@
 - [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/better-chatbot/pull/105) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [BetterAndBetterII/excalidraw-full](https://github.com/BetterAndBetterII/excalidraw-full) - Excalidraw Full: Your Self-Hosted, Cloud-Ready Collaboration Platform
+- [t3dotgg/SnitchBench](https://github.com/t3dotgg/SnitchBench) - 
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [RoNotBroYT/Fun-Tetris-game](https://github.com/RoNotBroYT/Fun-Tetris-game) - Fun simple Tetris game
 - [RoNotBroYT/Geo-dash](https://github.com/RoNotBroYT/Geo-dash) - A fun geo dash game
-- [intern3-chat/intern3-chat](https://github.com/intern3-chat/intern3-chat) - Built for interns by interns
-- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
 # My setup
 
 Arch Linux dual boot with Win11 pro
