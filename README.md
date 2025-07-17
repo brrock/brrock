@@ -5,7 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
+- [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
@@ -21,16 +21,16 @@
 
 - [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
-- [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
+- [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/better-chatbot/better-chatbot/pull/119) on [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot)
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
-- [feat(releases): add debug logging to the add authors and update release step](https://github.com/cgoinglove/better-chatbot/pull/105) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
+- [feat(releases): add debug logging to the add authors and update release step](https://github.com/better-chatbot/better-chatbot/pull/105) on [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot)
 ### ⭐ Recent Stars
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [SnowingFox/firecrawl-alternative](https://github.com/SnowingFox/firecrawl-alternative) - 
 - [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without derailing your roadmap.
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 # My setup
 
 Arch Linux dual boot with Win11 pro
