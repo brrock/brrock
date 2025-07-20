@@ -5,7 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
+- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
@@ -19,11 +19,11 @@
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🔨 My recent Pull Requests
 
+- [fix: link to the config generator correctly](https://github.com/cgoinglove/better-chatbot/pull/184) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
-- [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/better-chatbot/better-chatbot/pull/119) on [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot)
+- [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
-- [feat(releases): add debug logging to the add authors and update release step](https://github.com/better-chatbot/better-chatbot/pull/105) on [better-chatbot/better-chatbot](https://github.com/better-chatbot/better-chatbot)
 ### ⭐ Recent Stars
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
