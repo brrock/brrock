@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [sandstone-mc/sandstone](https://github.com/sandstone-mc/sandstone) - Sandstone | Next Generation Framework for Minecraft
+- [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun) - Bun bindings for webview, a tiny library for creating web-based desktop GUIs.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 # My setup
 
 Arch Linux dual boot with Win11 pro
