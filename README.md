@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [Voxelum/minecraft-launcher-core-node](https://github.com/Voxelum/minecraft-launcher-core-node) - Provide packages to install Minecraft, launch Minecraft and more to build launcher with NodeJs/Electron!
-- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
-- [ChrisTitusTech/yabai-config](https://github.com/ChrisTitusTech/yabai-config) - Full config files for Yabai, Sketchybar, and skhd
-- [ChrisTitusTech/macutil](https://github.com/ChrisTitusTech/macutil) - Fix macOS crazy defaults to be functional and remove animations and other apple b.s.
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [ChrisTitusTech/aerospace-config](https://github.com/ChrisTitusTech/aerospace-config) - 
+- [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) - A symbol font for sketchybar, initialized with the symbols from simple-bar
+- [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - macOS packaging for helium-chromium
 # My setup
 
 Arch Linux dual boot with Win11 pro
