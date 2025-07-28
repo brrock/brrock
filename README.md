@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-- [ChrisTitusTech/aerospace-config](https://github.com/ChrisTitusTech/aerospace-config) - 
-- [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) - A symbol font for sketchybar, initialized with the symbols from simple-bar
-- [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - macOS packaging for helium-chromium
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [joschan21/title-generator](https://github.com/joschan21/title-generator) - Youtube title generator with tRPC and OpenAI
+- [joschan21/contentport](https://github.com/joschan21/contentport) - 
+- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 # My setup
 
 Arch Linux dual boot with Win11 pro
