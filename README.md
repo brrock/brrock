@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [eb-chat/.github](https://github.com/eb-chat/.github) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
-- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
-- [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
+- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🌱 My latest projects
 
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [joschan21/title-generator](https://github.com/joschan21/title-generator) - Youtube title generator with tRPC and OpenAI
-- [joschan21/contentport](https://github.com/joschan21/contentport) - 
-- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [eb-chat/eb-chat](https://github.com/eb-chat/eb-chat) - 
+- [flarialmc/scripting-wiki](https://github.com/flarialmc/scripting-wiki) - Source for the scripting wiki (https://scripting.flarial.xyz)
+- [flarialmc/launcher](https://github.com/flarialmc/launcher) - 
+- [flarialmc/dll](https://github.com/flarialmc/dll) - 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 # My setup
 
 Arch Linux dual boot with Win11 pro
