@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
+- [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
 - [eb-chat/eb-chat](https://github.com/eb-chat/eb-chat) - 
 - [flarialmc/scripting-wiki](https://github.com/flarialmc/scripting-wiki) - Source for the scripting wiki (https://scripting.flarial.xyz)
 - [flarialmc/launcher](https://github.com/flarialmc/launcher) - 
 - [flarialmc/dll](https://github.com/flarialmc/dll) - 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 # My setup
 
 Arch Linux dual boot with Win11 pro
