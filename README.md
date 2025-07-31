@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
+- [huozhi/devjar](https://github.com/huozhi/devjar) - nobuild react live code runtime in browser
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - An intensively worked on, and highly customized linux dotfiles
+- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
 - [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
 - [eb-chat/eb-chat](https://github.com/eb-chat/eb-chat) - 
-- [flarialmc/scripting-wiki](https://github.com/flarialmc/scripting-wiki) - Source for the scripting wiki (https://scripting.flarial.xyz)
-- [flarialmc/launcher](https://github.com/flarialmc/launcher) - 
-- [flarialmc/dll](https://github.com/flarialmc/dll) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
