@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [huozhi/devjar](https://github.com/huozhi/devjar) - nobuild react live code runtime in browser
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - An intensively worked on, and highly customized linux dotfiles
-- [m4xshen/dotfiles](https://github.com/m4xshen/dotfiles) - My dotfiles for Neovim, Kitty, yabai, SketchyBar
-- [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
-- [eb-chat/eb-chat](https://github.com/eb-chat/eb-chat) - 
+- [jolbol1/tfl-board](https://github.com/jolbol1/tfl-board) - 
+- [jolbol1/randomise](https://github.com/jolbol1/randomise) - Find random .vercel.app sites
+- [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
+- [RhysSullivan/hogchat](https://github.com/RhysSullivan/hogchat) - Chat with your PostHog data
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 # My setup
 
 Arch Linux dual boot with Win11 pro
