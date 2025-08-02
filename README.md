@@ -26,11 +26,11 @@
 - [feat: add configuration option to use appId in path instead of subdomain](https://github.com/pingdotgg/uploadthing/pull/1211) on [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 ### ⭐ Recent Stars
 
-- [jolbol1/tfl-board](https://github.com/jolbol1/tfl-board) - 
-- [jolbol1/randomise](https://github.com/jolbol1/randomise) - Find random .vercel.app sites
-- [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
-- [RhysSullivan/hogchat](https://github.com/RhysSullivan/hogchat) - Chat with your PostHog data
-- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [hakonharnes/dotfiles](https://github.com/hakonharnes/dotfiles) - Personal dotfiles
+- [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
 # My setup
 
 Arch Linux dual boot with Win11 pro
