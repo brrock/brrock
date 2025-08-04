@@ -26,11 +26,11 @@
 - [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+- [ronin-co/blade](https://github.com/ronin-co/blade) - A React framework for building instant web apps.
+- [guitaripod/omnichat](https://github.com/guitaripod/omnichat) - 3rd place T3 Cloneathon Champion
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [musistudio/llms](https://github.com/musistudio/llms) - A universal LLM API transformation server
-- [loglib/loglib](https://github.com/loglib/loglib) - Crafted with care, Privacy first, Open source web analytics
-- [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-- [hakonharnes/dotfiles](https://github.com/hakonharnes/dotfiles) - Personal dotfiles
 # My setup
 
 Arch Linux dual boot with Win11 pro
