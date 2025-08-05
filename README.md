@@ -26,11 +26,11 @@
 - [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
-- [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
-- [ronin-co/blade](https://github.com/ronin-co/blade) - A React framework for building instant web apps.
-- [guitaripod/omnichat](https://github.com/guitaripod/omnichat) - 3rd place T3 Cloneathon Champion
-- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
-- [musistudio/llms](https://github.com/musistudio/llms) - A universal LLM API transformation server
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100&#43; LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments &#43; billing infrastructure
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪
+- [specui/specui](https://github.com/specui/specui) - Generate code with specs
+- [vercel/v0-sdk](https://github.com/vercel/v0-sdk) - SDK for the v0 Platform API
 # My setup
 
 Arch Linux dual boot with Win11 pro
