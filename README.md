@@ -26,11 +26,11 @@
 - [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+- [GameX-Fast-gaming-site/ronotbroyt.xyz](https://github.com/GameX-Fast-gaming-site/ronotbroyt.xyz) - My new and improved website with the help of @brrock 
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100&#43; LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments &#43; billing infrastructure
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪
-- [specui/specui](https://github.com/specui/specui) - Generate code with specs
-- [vercel/v0-sdk](https://github.com/vercel/v0-sdk) - SDK for the v0 Platform API
 # My setup
 
 Arch Linux dual boot with Win11 pro
