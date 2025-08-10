@@ -26,11 +26,11 @@
 - [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries! 
-- [dillionverma/llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
-- [magne4000/vite-plugin-vercel](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter for vite
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
+- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React &#43; Vite.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy &amp; Paste React components to build modern web applications. 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 # My setup
 
 Arch Linux dual boot with Win11 pro
