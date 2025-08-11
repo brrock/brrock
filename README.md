@@ -8,8 +8,8 @@
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client &amp; Workflows.
 - [eb-chat/.github](https://github.com/eb-chat/.github) - 
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
-- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🌱 My latest projects
 
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
@@ -19,18 +19,18 @@
 - [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🔨 My recent Pull Requests
 
+- [feat: gpt5](https://github.com/cgoinglove/better-chatbot/pull/236) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [fix: link to the config generator correctly](https://github.com/cgoinglove/better-chatbot/pull/184) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
-- [fix: clean changlelog and stop duplicate attributions in the changelog file](https://github.com/cgoinglove/better-chatbot/pull/119) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
-- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React &#43; Vite.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy &amp; Paste React components to build modern web applications. 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
+- [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - React Server Component support for Vite
+- [hi-ogawa/vite-plugin-rsc-deploy-example](https://github.com/hi-ogawa/vite-plugin-rsc-deploy-example) - 
+- [mendableai/firesearch](https://github.com/mendableai/firesearch) - 🔥 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph
+- [mendableai/fireplexity](https://github.com/mendableai/fireplexity) - 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl 
+- [mendableai/firestarter](https://github.com/mendableai/firestarter) -  🔥 Instantly create AI chatbots for any website with RAG-powered search, streaming responses, and OpenAI-compatible API endpoints
 # My setup
 
 Arch Linux dual boot with Win11 pro
