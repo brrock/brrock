@@ -26,11 +26,11 @@
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
 ### ⭐ Recent Stars
 
+- [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native &amp; Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red&#39;s battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [developersdigest/llm-api-engine](https://github.com/developersdigest/llm-api-engine) - Build and deploy AI-powered APIs in seconds
 - [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - React Server Component support for Vite
-- [hi-ogawa/vite-plugin-rsc-deploy-example](https://github.com/hi-ogawa/vite-plugin-rsc-deploy-example) - 
-- [mendableai/firesearch](https://github.com/mendableai/firesearch) - 🔥 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph
-- [mendableai/fireplexity](https://github.com/mendableai/fireplexity) - 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl 
-- [mendableai/firestarter](https://github.com/mendableai/firestarter) -  🔥 Instantly create AI chatbots for any website with RAG-powered search, streaming responses, and OpenAI-compatible API endpoints
 # My setup
 
 Arch Linux dual boot with Win11 pro
