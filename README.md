@@ -26,11 +26,11 @@
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
 ### ⭐ Recent Stars
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
-- [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
-- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨
 # My setup
 
 Arch Linux dual boot with Win11 pro
