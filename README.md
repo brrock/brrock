@@ -26,11 +26,11 @@
 - [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
 ### ⭐ Recent Stars
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
-- [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+- [ParisNeo/ollama_proxy_server](https://github.com/ParisNeo/ollama_proxy_server) - A proxy server for multiple ollama instances with Key security
+- [novvaccaine/soonagi](https://github.com/novvaccaine/soonagi) - Yet Another AI Chat App
+- [mcpauth/mcpauth](https://github.com/mcpauth/mcpauth) - Authentication for MCP Servers
+- [nordwestt/ollama-ai-provider-v2](https://github.com/nordwestt/ollama-ai-provider-v2) - Vercel AI Provider for running LLMs locally using Ollama 
 # My setup
 
 Arch Linux dual boot with Win11 pro
