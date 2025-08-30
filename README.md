@@ -23,14 +23,13 @@
 - [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [fix: link to the config generator correctly](https://github.com/cgoinglove/better-chatbot/pull/184) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
-- [feat: add multiplexer for stdio to sse servers](https://github.com/supercorp-ai/supergateway/pull/89) on [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
 ### ⭐ Recent Stars
 
-- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-- [t3dotgg/vsc-material-but-i-wont-sue-you](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) - The original owner of the Material UI theme for VS Code is grumpy, so I made a version you are safe to use as you please :)
-- [BerriAI/example_openai_endpoint](https://github.com/BerriAI/example_openai_endpoint) - An example OpenAI /chat/completions endpoint 
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [neondatabase-labs/mcp-server-neon](https://github.com/neondatabase-labs/mcp-server-neon) - MCP server for interacting with Neon Management API and databases
+- [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
+- [brijeshkumaryadav16/reactusekit](https://github.com/brijeshkumaryadav16/reactusekit) - React Hooks &amp; Helpers Collection - Copy, Paste, or Install with shadcn CLI
+- [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+- [ultrafunkamsterdam/googletranslate](https://github.com/ultrafunkamsterdam/googletranslate) - Python Google Translate (using reverse-engineered public API, so free)
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
 # My setup
 
 Arch Linux dual boot with Win11 pro
