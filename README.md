@@ -25,11 +25,11 @@
 - [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 ### ⭐ Recent Stars
 
+- [elsigh/next-ai-dev](https://github.com/elsigh/next-ai-dev) - AI-powered development tools for Next.js with browser monitoring and MCP server integration
+- [denoland/node_shims](https://github.com/denoland/node_shims) - npm packages providing shims for the Deno namespace and other globals. Useful for running Deno-first programs on Node.
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
-- [brijeshkumaryadav16/reactusekit](https://github.com/brijeshkumaryadav16/reactusekit) - React Hooks &amp; Helpers Collection - Copy, Paste, or Install with shadcn CLI
-- [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-- [ultrafunkamsterdam/googletranslate](https://github.com/ultrafunkamsterdam/googletranslate) - Python Google Translate (using reverse-engineered public API, so free)
-- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
 # My setup
 
 Arch Linux dual boot with Win11 pro
