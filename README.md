@@ -19,17 +19,17 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### 🔨 My recent Pull Requests
 
+- [feat: file uploads](https://github.com/cgoinglove/better-chatbot/pull/257) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: gpt5](https://github.com/cgoinglove/better-chatbot/pull/236) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [fix: link to the config generator correctly](https://github.com/cgoinglove/better-chatbot/pull/184) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
-- [ Fix Update index.html](https://github.com/RoNotBroYT/Ping-pong-game/pull/1) on [RoNotBroYT/Ping-pong-game](https://github.com/RoNotBroYT/Ping-pong-game)
 ### ⭐ Recent Stars
 
-- [elsigh/next-ai-dev](https://github.com/elsigh/next-ai-dev) - AI-powered development tools for Next.js with browser monitoring and MCP server integration
-- [denoland/node_shims](https://github.com/denoland/node_shims) - npm packages providing shims for the Deno namespace and other globals. Useful for running Deno-first programs on Node.
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+- [run-llama/mcp-nextjs](https://github.com/run-llama/mcp-nextjs) - Example MCP server with OAuth
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
+- [thadius83/firecrawl-customgoogle](https://github.com/thadius83/firecrawl-customgoogle) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
