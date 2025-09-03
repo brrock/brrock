@@ -22,7 +22,6 @@
 - [feat: file uploads](https://github.com/cgoinglove/better-chatbot/pull/257) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: gpt5](https://github.com/cgoinglove/better-chatbot/pull/236) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 - [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
-- [fix: link to the config generator correctly](https://github.com/cgoinglove/better-chatbot/pull/184) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
