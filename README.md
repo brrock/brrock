@@ -24,11 +24,11 @@
 - [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 - [run-llama/mcp-nextjs](https://github.com/run-llama/mcp-nextjs) - Example MCP server with OAuth
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
-- [thadius83/firecrawl-customgoogle](https://github.com/thadius83/firecrawl-customgoogle) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
