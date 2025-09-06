@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 - [eb-chat/.github](https://github.com/eb-chat/.github) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
-- [brrock/mcp-client-chatbot-openai-like](https://github.com/brrock/mcp-client-chatbot-openai-like) - 
 ### 🌱 My latest projects
 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
@@ -17,18 +17,13 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 - [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
-### 🔨 My recent Pull Requests
-
-- [feat: file uploads](https://github.com/cgoinglove/better-chatbot/pull/257) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
-- [feat: gpt5](https://github.com/cgoinglove/better-chatbot/pull/236) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
-- [feat: add qwen3 coder to models file for openrouter](https://github.com/cgoinglove/better-chatbot/pull/206) on [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot)
 ### ⭐ Recent Stars
 
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents (YC S25)
+- [bugra9/cpp.js](https://github.com/bugra9/cpp.js) - Bind C&#43;&#43; to JavaScript with no extra code. (WebAssembly &amp; React Native)
+- [vercel/nextgram](https://github.com/vercel/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 - [platformatic/kafka](https://github.com/platformatic/kafka) - 
-- [platformatic/flame](https://github.com/platformatic/flame) - Utility to generate flamegraphs
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 # My setup
 
 Arch Linux dual boot with Win11 pro
