@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
+- [remorses/ai-fallback](https://github.com/remorses/ai-fallback) - Automatically switch AI SDK model provider when one of the providers has downtime
+- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
+- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems.
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
-- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents (YC S25)
-- [bugra9/cpp.js](https://github.com/bugra9/cpp.js) - Bind C&#43;&#43; to JavaScript with no extra code. (WebAssembly &amp; React Native)
-- [vercel/nextgram](https://github.com/vercel/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
-- [platformatic/kafka](https://github.com/platformatic/kafka) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
