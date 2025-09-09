@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
+- [mikevalstar/bjourn](https://github.com/mikevalstar/bjourn) - A command line Bullet Journal tool
+- [T3-Content/skatebench](https://github.com/T3-Content/skatebench) - 
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [remorses/ai-fallback](https://github.com/remorses/ai-fallback) - Automatically switch AI SDK model provider when one of the providers has downtime
 - [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
-- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
 # My setup
 
 Arch Linux dual boot with Win11 pro
