@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
+- [epicenter-os/epicenter](https://github.com/epicenter-os/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [remorses/termcast](https://github.com/remorses/termcast) - Run Racyast extensions in the terminal. Powered by opentui
+- [jcbhmr/rfd.js](https://github.com/jcbhmr/rfd.js) - 📂 Lets you open native file picker and message boxes in JavaScript!
 - [mikevalstar/bjourn](https://github.com/mikevalstar/bjourn) - A command line Bullet Journal tool
-- [T3-Content/skatebench](https://github.com/T3-Content/skatebench) - 
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
-- [remorses/ai-fallback](https://github.com/remorses/ai-fallback) - Automatically switch AI SDK model provider when one of the providers has downtime
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
 # My setup
 
 Arch Linux dual boot with Win11 pro
