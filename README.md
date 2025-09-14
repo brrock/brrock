@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
+- [shuding/nstr](https://github.com/shuding/nstr) - number → string, but looks good
+- [fly-apps/headless-chrome-on-gpu](https://github.com/fly-apps/headless-chrome-on-gpu) - Example app of a headless chrome using Vulkan GPU rendering 
 - [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
 - [seflless/create-vscode-editor](https://github.com/seflless/create-vscode-editor) - 
 - [remorses/spiceflow](https://github.com/remorses/spiceflow) - Super Simple API framework, type safe, automatic OpenAPI, MCP support, client RPC, streaming with SSE
-- [epicenter-os/epicenter](https://github.com/epicenter-os/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 # My setup
 
 Arch Linux dual boot with Win11 pro
