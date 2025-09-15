@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
-- [shuding/nstr](https://github.com/shuding/nstr) - number → string, but looks good
-- [fly-apps/headless-chrome-on-gpu](https://github.com/fly-apps/headless-chrome-on-gpu) - Example app of a headless chrome using Vulkan GPU rendering 
-- [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
-- [seflless/create-vscode-editor](https://github.com/seflless/create-vscode-editor) - 
-- [remorses/spiceflow](https://github.com/remorses/spiceflow) - Super Simple API framework, type safe, automatic OpenAPI, MCP support, client RPC, streaming with SSE
+- [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
+- [xinkjs/xink](https://github.com/xinkjs/xink) - API framework, Vite plugin
+- [vercel/cosmosdb-server](https://github.com/vercel/cosmosdb-server) - A Cosmos DB server implementation for testing your applications locally.
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 # My setup
 
 Arch Linux dual boot with Win11 pro
