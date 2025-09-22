@@ -19,11 +19,11 @@
 - [brrock/simpleS3](https://github.com/brrock/simpleS3) - Simple s3 server made in rust and runs in docker. Set up an s3 server in 30 seconds. Small, fast and easy
 ### ⭐ Recent Stars
 
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
-- [RhysSullivan/tenant-kit](https://github.com/RhysSullivan/tenant-kit) - A collection of documentation, components, and resources for building multi-tenant applications.
-- [RhysSullivan/typelytics](https://github.com/RhysSullivan/typelytics) - Typesafe analytics from query to render
-- [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
-- [RhysSullivan/claude-sandbox-bot](https://github.com/RhysSullivan/claude-sandbox-bot) - Demo of Claude Code in Vercel Sandbox in Discord
+- [remorses/htmlrewriter](https://github.com/remorses/htmlrewriter) - HTMLRewriter packaged to work everywhere
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy) - Databuddy is a privacy-first analytics platform with a focus on user experience, with it&#39;s foundation built on privacy, it ensures complete compliance with most major data privacy laws out of the box
+- [freestyle-sh/Adorable](https://github.com/freestyle-sh/Adorable) - Open Source Lovable
+- [haydenbleasel/shadcn-prose](https://github.com/haydenbleasel/shadcn-prose) - Prose styles for shadcn/ui, including headings, paragraphs, lists and more.
 # My setup
 
 Arch Linux dual boot with Win11 pro
