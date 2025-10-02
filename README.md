@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 - [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 - [eb-chat/.github](https://github.com/eb-chat/.github) - 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 ### 🌱 My latest projects
 
+- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
-- [brrock/simple-vercel-blob-to-s3](https://github.com/brrock/simple-vercel-blob-to-s3) - Simple converter for vercel blob to s3 
 ### ⭐ Recent Stars
 
-- [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-- [get-convex/turbo-expo-nextjs-clerk-convex-monorepo](https://github.com/get-convex/turbo-expo-nextjs-clerk-convex-monorepo) - Monorepo template with Turborepo, Next.js, Expo, Clerk, Convex
-- [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [richardtallent/vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile) - Vite plugin for inlining JavaScript and CSS resources
+- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
+- [patroninc/patron](https://github.com/patroninc/patron) - Open source Patreon alternative with lower fees designed for creators who publish ongoing sequential content like books, podcasts, and comics.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [drizzle-team/onedollarstats-script](https://github.com/drizzle-team/onedollarstats-script) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
