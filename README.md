@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
-- [richardtallent/vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile) - Vite plugin for inlining JavaScript and CSS resources
-- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
-- [patroninc/patron](https://github.com/patroninc/patron) - Open source Patreon alternative with lower fees designed for creators who publish ongoing sequential content like books, podcasts, and comics.
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [drizzle-team/onedollarstats-script](https://github.com/drizzle-team/onedollarstats-script) - 
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+- [shlokkhemani/openpoke](https://github.com/shlokkhemani/openpoke) - Open source implementation of Poke 
+- [remorses/durablefetch](https://github.com/remorses/durablefetch) - add resumability to any streaming request
 # My setup
 
 Arch Linux dual boot with Win11 pro
