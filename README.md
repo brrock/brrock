@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 - [brrock/portfolio](https://github.com/brrock/portfolio) - 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
-- [eb-chat/.github](https://github.com/eb-chat/.github) - 
 ### 🌱 My latest projects
 
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) - 
+- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-- [shlokkhemani/openpoke](https://github.com/shlokkhemani/openpoke) - Open source implementation of Poke 
-- [remorses/durablefetch](https://github.com/remorses/durablefetch) - add resumability to any streaming request
 # My setup
 
 Arch Linux dual boot with Win11 pro
