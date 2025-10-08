@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [gr2m/create-github-app-installation-token](https://github.com/gr2m/create-github-app-installation-token) - 
+- [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
+- [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way
+- [bundui/components](https://github.com/bundui/components) - A collection of components that you can copy and paste into your apps. Built with Tailwind CSS and Motion. Supports shadcn/ui.
 - [bmdavis419/river](https://github.com/bmdavis419/river) - a TRPC inspired experience for consuming agent streams
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app&#39;s complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
-- [t3dotgg/cf-vs-vercel-bench](https://github.com/t3dotgg/cf-vs-vercel-bench) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
