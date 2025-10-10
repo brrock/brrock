@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [antfu/shiki-stream](https://github.com/antfu/shiki-stream) - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
+- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
+- [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) - 
 - [gr2m/create-github-app-installation-token](https://github.com/gr2m/create-github-app-installation-token) - 
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
-- [paoloricciuti/tmcp](https://github.com/paoloricciuti/tmcp) - Typescript SDK to build MCP servers in an agnostic way
-- [bundui/components](https://github.com/bundui/components) - A collection of components that you can copy and paste into your apps. Built with Tailwind CSS and Motion. Supports shadcn/ui.
-- [bmdavis419/river](https://github.com/bmdavis419/river) - a TRPC inspired experience for consuming agent streams
 # My setup
 
 Arch Linux dual boot with Win11 pro
