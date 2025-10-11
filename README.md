@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [PostHog/posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
+- [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files
 - [antfu/shiki-stream](https://github.com/antfu/shiki-stream) - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
 - [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
-- [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) - 
-- [gr2m/create-github-app-installation-token](https://github.com/gr2m/create-github-app-installation-token) - 
-- [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
 # My setup
 
 Arch Linux dual boot with Win11 pro
