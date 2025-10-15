@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [d0phamine/d0phamine-music-player](https://github.com/d0phamine/d0phamine-music-player) - Simple desktop music app
+- [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 # My setup
 
 Arch Linux dual boot with Win11 pro
