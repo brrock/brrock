@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
+- [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
 - [gr2m/octokit-plugin-create-pull-request](https://github.com/gr2m/octokit-plugin-create-pull-request) - Octokit plugin to create a pull request with multiple file changes
 - [0xdevalias/chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT&#39;s codebase through time with curated archives and scripts
 - [d0phamine/d0phamine-music-player](https://github.com/d0phamine/d0phamine-music-player) - Simple desktop music app
-- [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 # My setup
 
 Arch Linux dual boot with Win11 pro
