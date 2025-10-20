@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [drewsephski/nodebase](https://github.com/drewsephski/nodebase) - n8n clone
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
 - [gr2m/octokit-plugin-create-pull-request](https://github.com/gr2m/octokit-plugin-create-pull-request) - Octokit plugin to create a pull request with multiple file changes
-- [0xdevalias/chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT&#39;s codebase through time with curated archives and scripts
-- [d0phamine/d0phamine-music-player](https://github.com/d0phamine/d0phamine-music-player) - Simple desktop music app
 # My setup
 
 Arch Linux dual boot with Win11 pro
