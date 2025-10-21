@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
 - [drewsephski/nodebase](https://github.com/drewsephski/nodebase) - n8n clone
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
-- [gr2m/octokit-plugin-create-pull-request](https://github.com/gr2m/octokit-plugin-create-pull-request) - Octokit plugin to create a pull request with multiple file changes
 # My setup
 
 Arch Linux dual boot with Win11 pro
