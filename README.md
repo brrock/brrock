@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
+- [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript
+- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
 - [drewsephski/nodebase](https://github.com/drewsephski/nodebase) - n8n clone
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
-- [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
-- [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual) - Python decompiler for modern Python versions.
 # My setup
 
 Arch Linux dual boot with Win11 pro
