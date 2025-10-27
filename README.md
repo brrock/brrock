@@ -19,11 +19,11 @@
 - [brrock/release-please-test](https://github.com/brrock/release-please-test) - 
 ### ⭐ Recent Stars
 
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-- [vercel/workflow-examples](https://github.com/vercel/workflow-examples) - 
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- [soulscircuit/pilet](https://github.com/soulscircuit/pilet) - 3D files, schematics, and documentation for Pilet—an open-source, modular, and portable mini-computer.
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [iboughtbed/trpc-to-mcp](https://github.com/iboughtbed/trpc-to-mcp) - tRPC to MCP package
+- [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
+- [cah4a/trpc-bun-adapter](https://github.com/cah4a/trpc-bun-adapter) - Use tRPC with bun and fun
+- [vercel/vectr](https://github.com/vercel/vectr) - A free, open-source template for building natural language image search on the AI Cloud.
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
 # My setup
 
 Arch Linux dual boot with Win11 pro
