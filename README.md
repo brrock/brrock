@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
+- [JasonN3/build-container-installer](https://github.com/JasonN3/build-container-installer) - Creates an ISO for installing a container image as an OS
 - [fal-ai/flashpack](https://github.com/fal-ai/flashpack) - High-throughput tensor loading for PyTorch
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C&#43;&#43; python bytecode disassembler and decompiler
 - [RoNotBroYT/Ro-Footy2](https://github.com/RoNotBroYT/Ro-Footy2) - 
-- [iboughtbed/trpc-to-mcp](https://github.com/iboughtbed/trpc-to-mcp) - tRPC to MCP package
-- [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
 # My setup
 
 Arch Linux dual boot with Win11 pro
