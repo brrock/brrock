@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [mirza9hsn/Lovable-Clone](https://github.com/mirza9hsn/Lovable-Clone) - Lovable Clone. Build  with Inngest AI agent tool kit, Nextjs 15, Clerk, Shandcn, E2B Sandbox, TRPC, Prisma &amp; Neondb.
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+- [Krish120003/zercel](https://github.com/Krish120003/zercel) - Zercel is a Vercel clone that supports Fluid Compute and automatic deployments.
 - [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
 - [JasonN3/build-container-installer](https://github.com/JasonN3/build-container-installer) - Creates an ISO for installing a container image as an OS
-- [fal-ai/flashpack](https://github.com/fal-ai/flashpack) - High-throughput tensor loading for PyTorch
-- [zrax/pycdc](https://github.com/zrax/pycdc) - C&#43;&#43; python bytecode disassembler and decompiler
-- [RoNotBroYT/Ro-Footy2](https://github.com/RoNotBroYT/Ro-Footy2) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
