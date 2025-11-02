@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [Krish120003/gitfaster](https://github.com/Krish120003/gitfaster) - Gitfaster is a minimal, blazing fast client that makes GitHub feel modern again.
+- [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec &amp; reference implementation.
-- [mirza9hsn/Lovable-Clone](https://github.com/mirza9hsn/Lovable-Clone) - Lovable Clone. Build  with Inngest AI agent tool kit, Nextjs 15, Clerk, Shandcn, E2B Sandbox, TRPC, Prisma &amp; Neondb.
-- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 # My setup
 
 Arch Linux dual boot with Win11 pro
