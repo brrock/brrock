@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
+- [remorses/embeddable-analytics](https://github.com/remorses/embeddable-analytics) - Embeddable multi tenant analytics in React
 - [Weather-OS/WineGDK](https://github.com/Weather-OS/WineGDK) - GDK Components and *some* WinRT Components ported to Wine.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
-- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for running AI-generated code/code interpreting in your AI app 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [fuma-nama/stats](https://github.com/fuma-nama/stats) - my hobby project to display NPM package downloads in widgets
 # My setup
 
 Arch Linux dual boot with Win11 pro
