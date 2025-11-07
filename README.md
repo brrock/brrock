@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [danielroe/stackblitz.zip](https://github.com/danielroe/stackblitz.zip) - Download StackBlitz projects programmatically
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
+- [arkemis-labs/shadcn-zod-form](https://github.com/arkemis-labs/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
 - [bmdavis419/river-mono](https://github.com/bmdavis419/river-mono) - it&#39;s kinda like trpc, but for ai agents &amp; streams
-- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
-- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
-- [remorses/embeddable-analytics](https://github.com/remorses/embeddable-analytics) - Embeddable multi tenant analytics in React
 # My setup
 
 Arch Linux dual boot with Win11 pro
