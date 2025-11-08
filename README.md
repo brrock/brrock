@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [chris-schra/mcp-funnel](https://github.com/chris-schra/mcp-funnel) - Finally, a proxy that does what grep does for logs - filters out the noise. Stop carrying 70k tokens of tools you&#39;ll never use. It&#39;s like tree-shaking, but for MCP. 🚀
+- [CodeWithShreyans/upstash-kv](https://github.com/CodeWithShreyans/upstash-kv) - Simple Upstash Redis client based on @vercel/kv
+- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [danielroe/stackblitz.zip](https://github.com/danielroe/stackblitz.zip) - Download StackBlitz projects programmatically
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
-- [arkemis-labs/shadcn-zod-form](https://github.com/arkemis-labs/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
-- [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
-- [bmdavis419/river-mono](https://github.com/bmdavis419/river-mono) - it&#39;s kinda like trpc, but for ai agents &amp; streams
 # My setup
 
 Arch Linux dual boot with Win11 pro
