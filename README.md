@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
-- [arkanelinux/arkdep](https://github.com/arkanelinux/arkdep) - Toolkit for building, deploying and maintaining an immutable, atomic, btrfs-based system
-- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
-- [StefanTerdell/json-schema-to-zod](https://github.com/StefanTerdell/json-schema-to-zod) - 
-- [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) - Converts Zod schemas to Json schemas
+- [mtoensing/Docker-Minecraft-Bedrock-Server](https://github.com/mtoensing/Docker-Minecraft-Bedrock-Server) - Starts a Minecraft BEDROCK Server (PE Pocket Edition) for iOS, iPhone, iPad, XBOX and Windows.
+- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
+- [playit-cloud/playit-minecraft-plugin](https://github.com/playit-cloud/playit-minecraft-plugin) - A Minecraft plugin to make your server public without port forwarding using playit.gg
+- [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent) - The playit program
+- [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
 # My setup
 
 Arch Linux dual boot with Win11 pro
