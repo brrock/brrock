@@ -19,11 +19,11 @@
 - [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
+- [The-Context-Company/observatory](https://github.com/The-Context-Company/observatory) - 
+- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 &#43; Workers.
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
-- [mtoensing/Docker-Minecraft-Bedrock-Server](https://github.com/mtoensing/Docker-Minecraft-Bedrock-Server) - Starts a Minecraft BEDROCK Server (PE Pocket Edition) for iOS, iPhone, iPad, XBOX and Windows.
-- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server
 # My setup
 
 Arch Linux dual boot with Win11 pro
