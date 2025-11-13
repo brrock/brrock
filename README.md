@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 - [brrock/portfolio](https://github.com/brrock/portfolio) - 
-- [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### 🌱 My latest projects
 
+- [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
-- [brrock/utServer](https://github.com/brrock/utServer) - The unofficial way to self host uploadthing. Fully compatiable with uploadthing. Written in hono for fast speeds
 ### ⭐ Recent Stars
 
-- [The-Context-Company/observatory](https://github.com/The-Context-Company/observatory) - 
-- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
-- [steven-tey/extrapolate](https://github.com/steven-tey/extrapolate) - Age transformation AI app powered by Next.js, Vercel, Replicate, Upstash, and Cloudflare R2 &#43; Workers.
-- [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows.
-- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
+- [andersmyrmel/yoink](https://github.com/andersmyrmel/yoink) - Yoink any website&#39;s design style in one click
+- [contigen/non.geist](https://github.com/contigen/non.geist) - A package to use Vercelʼs font, Geist, outside of Next.js environment
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the Fetch API
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more.
 # My setup
 
 Arch Linux dual boot with Win11 pro
