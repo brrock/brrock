@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
-- [andersmyrmel/yoink](https://github.com/andersmyrmel/yoink) - Yoink any website&#39;s design style in one click
-- [contigen/non.geist](https://github.com/contigen/non.geist) - A package to use Vercelʼs font, Geist, outside of Next.js environment
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the Fetch API
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more.
+- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
+- [esm-dev/vscode](https://github.com/esm-dev/vscode) - A Visual Studio Code extension loads types(.d.ts) for esm.sh imports.
+- [esm-dev/tsx](https://github.com/esm-dev/tsx) - A TSX transpiler for esm.sh services.
+- [esm-dev/cjs-module-lexer](https://github.com/esm-dev/cjs-module-lexer) - A lexer for detecting the module.exports of a CJS module.
+- [egoist/claude-code-mcp](https://github.com/egoist/claude-code-mcp) - Run Claude Code as an MCP server
 # My setup
 
 Arch Linux dual boot with Win11 pro
