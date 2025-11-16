@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
-- [sebmarkbage/react-typewriter-reveal](https://github.com/sebmarkbage/react-typewriter-reveal) - React component for animating in text content as if it was being written on the fly.
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
-- [esm-dev/vscode](https://github.com/esm-dev/vscode) - A Visual Studio Code extension loads types(.d.ts) for esm.sh imports.
-- [esm-dev/tsx](https://github.com/esm-dev/tsx) - A TSX transpiler for esm.sh services.
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards &amp; notes for the command-line habitat
+- [sannajammeh/trpc-swr](https://github.com/sannajammeh/trpc-swr) - tRPC-ified SWR hooks
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the &#39;google search&#39; of our alphabet.
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 # My setup
 
 Arch Linux dual boot with Win11 pro
