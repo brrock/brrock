@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
-- [brrock/portfolio](https://github.com/brrock/portfolio) - 
 ### 🌱 My latest projects
 
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [Krish120003/opencode-web](https://github.com/Krish120003/opencode-web) - 
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards &amp; notes for the command-line habitat
 - [sannajammeh/trpc-swr](https://github.com/sannajammeh/trpc-swr) - tRPC-ified SWR hooks
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the &#39;google search&#39; of our alphabet.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 # My setup
 
 Arch Linux dual boot with Win11 pro
