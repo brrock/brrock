@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
-- [coder/ghostty-web](https://github.com/coder/ghostty-web) - Web terminal built on Ghostty
-- [automateyournetwork/GeminiCLI_Listen_Extension](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Turn Gemini-CLI into a server with /isten commands packaged as a Gemini-CLI extension
-- [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode
-- [EveryInc/every-marketplace](https://github.com/EveryInc/every-marketplace) - Official Every-Env plugin marketplace for Claude Code extensions
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [pashword/pashword](https://github.com/pashword/pashword) - 🔒 Pashword - Never forget passwords ever again! Free and Open Source Hashed Password Generator
+- [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
+- [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool
 # My setup
 
 Arch Linux dual boot with Win11 pro
