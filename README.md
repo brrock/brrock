@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
+- [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 - [dotenv-org/dotenv-vscode](https://github.com/dotenv-org/dotenv-vscode) - Add auto-cloaking, auto-completion, in-code secret peeking, and more to VSCode.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
-- [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
