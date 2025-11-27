@@ -19,11 +19,11 @@
 - [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
+- [pixie-org/pixie](https://github.com/pixie-org/pixie) - Create MCP apps easily
+- [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) - 
 - [kcosr/pty-to-html](https://github.com/kcosr/pty-to-html) - Convert raw PTY log files to styled HTML output using Ghostty&#39;s terminal emulation library. This tool parses terminal escape sequences (ANSI colors, styles, cursor movements, etc.) and renders the final terminal state as HTML with proper styling.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [RhysSullivan/twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username) - 
-- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
-- [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 # My setup
 
 Arch Linux dual boot with Win11 pro
