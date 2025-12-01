@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
-- [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### 🌱 My latest projects
 
+- [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
-- [brrock/ollama-ai-sdk-provider](https://github.com/brrock/ollama-ai-sdk-provider) - The original ollama ai sdk provider updated to ai sdk v5 as https://github.com/platformshape/ollama-ai-provider
 ### ⭐ Recent Stars
 
-- [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear&#39;s sync engine. Endorsed by its co-founder &amp; CTO.
-- [miketeachman/micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [NvChad/nvchad.github.io](https://github.com/NvChad/nvchad.github.io) - Site for NvChad built using solidjs &#43; unocss
+- [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
+- [seydx/camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras
+- [RiskyMH/EmailThing](https://github.com/RiskyMH/EmailThing) - A web app for receiving and sending your emails!
+- [delhatch/PiPod_ePaper](https://github.com/delhatch/PiPod_ePaper) - PiPod MP3 player with a 250 × 122 e-Paper screen
+- [ultratrikx/walkman](https://github.com/ultratrikx/walkman) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
