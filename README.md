@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras
-- [RiskyMH/EmailThing](https://github.com/RiskyMH/EmailThing) - A web app for receiving and sending your emails!
-- [delhatch/PiPod_ePaper](https://github.com/delhatch/PiPod_ePaper) - PiPod MP3 player with a 250 × 122 e-Paper screen
-- [ultratrikx/walkman](https://github.com/ultratrikx/walkman) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
