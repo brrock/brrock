@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
+- [GarthDB/ha-wattbox](https://github.com/GarthDB/ha-wattbox) - Home Assistant integration for SnapAV Wattbox 800 series devices using telnet communication
+- [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) - Verify Precision of all Kimi K2 API Vendor
+- [Iridium-Development/IridiumSkyblock](https://github.com/Iridium-Development/IridiumSkyblock) - IridiumSkyblock: Skyblock Redefined 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
-- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 # My setup
 
 Arch Linux dual boot with Win11 pro
