@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
+- [remorses/tuistory](https://github.com/remorses/tuistory) - Playwright for terminal user interfaces
 - [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 - [GarthDB/ha-wattbox](https://github.com/GarthDB/ha-wattbox) - Home Assistant integration for SnapAV Wattbox 800 series devices using telnet communication
 - [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) - Verify Precision of all Kimi K2 API Vendor
-- [Iridium-Development/IridiumSkyblock](https://github.com/Iridium-Development/IridiumSkyblock) - IridiumSkyblock: Skyblock Redefined 
-- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 # My setup
 
 Arch Linux dual boot with Win11 pro
