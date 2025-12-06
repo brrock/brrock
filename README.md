@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
-- [remorses/tuistory](https://github.com/remorses/tuistory) - Playwright for terminal user interfaces
-- [SaltyAom/bun-http-framework-benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
-- [GarthDB/ha-wattbox](https://github.com/GarthDB/ha-wattbox) - Home Assistant integration for SnapAV Wattbox 800 series devices using telnet communication
-- [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) - Verify Precision of all Kimi K2 API Vendor
+- [ScreamingSandals/BedWars](https://github.com/ScreamingSandals/BedWars) - Simple BedWars minigame plugin for Paper/Spigot version 1.8.8 - 1.21.10
+- [0xSero/browser-ai](https://github.com/0xSero/browser-ai) - 
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - Minecraft game engine for massive custom events
+- [T-x-T/oxide](https://github.com/T-x-T/oxide) - A reimplementation of the Minecraft Server in pure Rust
 # My setup
 
 Arch Linux dual boot with Win11 pro
