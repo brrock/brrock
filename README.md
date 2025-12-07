@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
+- [ThioJoe/Simple-Chrome-Extension-Utilities](https://github.com/ThioJoe/Simple-Chrome-Extension-Utilities) - Simple single-purpose Chrome Extensions
+- [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [ScreamingSandals/BedWars](https://github.com/ScreamingSandals/BedWars) - Simple BedWars minigame plugin for Paper/Spigot version 1.8.8 - 1.21.10
 - [0xSero/browser-ai](https://github.com/0xSero/browser-ai) - 
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
-- [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - Minecraft game engine for massive custom events
-- [T-x-T/oxide](https://github.com/T-x-T/oxide) - A reimplementation of the Minecraft Server in pure Rust
 # My setup
 
 Arch Linux dual boot with Win11 pro
