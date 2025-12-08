@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
+- [numenmc/donutstocks-worker](https://github.com/numenmc/donutstocks-worker) - 
+- [byPixelTV/SkRedis](https://github.com/byPixelTV/SkRedis) - A Skript-Addon to interact with Redis. The modern way to use Redis and Skript 🚀
+- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-- [ThioJoe/Simple-Chrome-Extension-Utilities](https://github.com/ThioJoe/Simple-Chrome-Extension-Utilities) - Simple single-purpose Chrome Extensions
-- [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
-- [ScreamingSandals/BedWars](https://github.com/ScreamingSandals/BedWars) - Simple BedWars minigame plugin for Paper/Spigot version 1.8.8 - 1.21.10
-- [0xSero/browser-ai](https://github.com/0xSero/browser-ai) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
