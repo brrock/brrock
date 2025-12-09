@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [vercel/ios-web-payments](https://github.com/vercel/ios-web-payments) - Zero-commission iOS app payments with Solito.
+- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
+- [espressif/esp-matter](https://github.com/espressif/esp-matter) - Espressif&#39;s SDK for Matter
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
-- [numenmc/donutstocks-worker](https://github.com/numenmc/donutstocks-worker) - 
-- [byPixelTV/SkRedis](https://github.com/byPixelTV/SkRedis) - A Skript-Addon to interact with Redis. The modern way to use Redis and Skript 🚀
-- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
-- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 # My setup
 
 Arch Linux dual boot with Win11 pro
