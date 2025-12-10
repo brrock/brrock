@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone) - reverse engineering the best-selling drones on Amazon to control programmatically
+- [docyx/pc-part-dataset](https://github.com/docyx/pc-part-dataset) - A dataset of PC parts scraped from PCPartPicker
+- [zephyraoss/fukusu](https://github.com/zephyraoss/fukusu) - the uploadthing compatible backend that works anywhere
 - [vercel/ios-web-payments](https://github.com/vercel/ios-web-payments) - Zero-commission iOS app payments with Solito.
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
-- [espressif/esp-matter](https://github.com/espressif/esp-matter) - Espressif&#39;s SDK for Matter
-- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
 # My setup
 
 Arch Linux dual boot with Win11 pro
