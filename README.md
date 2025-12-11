@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+- [pullfrog/action](https://github.com/pullfrog/action) - Iterate with AI. Without leaving GitHub.
+- [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.
 - [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone) - reverse engineering the best-selling drones on Amazon to control programmatically
 - [docyx/pc-part-dataset](https://github.com/docyx/pc-part-dataset) - A dataset of PC parts scraped from PCPartPicker
-- [zephyraoss/fukusu](https://github.com/zephyraoss/fukusu) - the uploadthing compatible backend that works anywhere
-- [vercel/ios-web-payments](https://github.com/vercel/ios-web-payments) - Zero-commission iOS app payments with Solito.
-- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
 # My setup
 
 Arch Linux dual boot with Win11 pro
