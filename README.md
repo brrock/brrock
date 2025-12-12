@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF) - Edit PDF files with Nano Banana
+- [oritwoen/omnichron](https://github.com/oritwoen/omnichron) - Unified TypeScript interface for multiple web archive platforms.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 - [pullfrog/action](https://github.com/pullfrog/action) - Iterate with AI. Without leaving GitHub.
 - [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.
-- [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone) - reverse engineering the best-selling drones on Amazon to control programmatically
-- [docyx/pc-part-dataset](https://github.com/docyx/pc-part-dataset) - A dataset of PC parts scraped from PCPartPicker
 # My setup
 
 Arch Linux dual boot with Win11 pro
