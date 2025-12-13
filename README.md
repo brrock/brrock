@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
-- [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF) - Edit PDF files with Nano Banana
-- [oritwoen/omnichron](https://github.com/oritwoen/omnichron) - Unified TypeScript interface for multiple web archive platforms.
-- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
-- [pullfrog/action](https://github.com/pullfrog/action) - Iterate with AI. Without leaving GitHub.
-- [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
+- [qweritos/hass-supervised-docker](https://github.com/qweritos/hass-supervised-docker) - Docker image for running Home Assistant Supervised inside a single container, based on Debian 13 with systemd and Docker.
 # My setup
 
 Arch Linux dual boot with Win11 pro
