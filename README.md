@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
-- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
-- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
-- [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
-- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Code SDK - Use Pro/Max Subscription via SDK.
-- [Pinball3D/Rabbit-R1](https://github.com/Pinball3D/Rabbit-R1) - Rabbit R1 Reverse Engineering
+- [remorses/submodiff](https://github.com/remorses/submodiff) - Watch git submodule diffs in real-time
+- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel.
+- [RhysSullivan/dotfiles](https://github.com/RhysSullivan/dotfiles) - My personal configuration files (OpenCode, tsgo LSP)
+- [get-convex/convex-helpers](https://github.com/get-convex/convex-helpers) - A collection of useful code to complement the official packages.
+- [tomkeuper/BedWars2023](https://github.com/tomkeuper/BedWars2023) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn.
 # My setup
 
 Arch Linux dual boot with Win11 pro
