@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
-- [remorses/submodiff](https://github.com/remorses/submodiff) - Watch git submodule diffs in real-time
-- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel.
-- [RhysSullivan/dotfiles](https://github.com/RhysSullivan/dotfiles) - My personal configuration files (OpenCode, tsgo LSP)
-- [get-convex/convex-helpers](https://github.com/get-convex/convex-helpers) - A collection of useful code to complement the official packages.
-- [tomkeuper/BedWars2023](https://github.com/tomkeuper/BedWars2023) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [greigs/legogb](https://github.com/greigs/legogb) - Functional / Playable Lego Game Boy Electronics - PCB Design Files
+- [greigs/retro-go](https://github.com/greigs/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
+- [huozhi/vaso](https://github.com/huozhi/vaso) - Liquid Glass effect for React
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 # My setup
 
 Arch Linux dual boot with Win11 pro
