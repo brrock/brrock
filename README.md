@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [wildcard/caro](https://github.com/wildcard/caro) - cmdai: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included.
+- [remorses/puppeteer-script](https://github.com/remorses/puppeteer-script) - Execute actions through a readable YAML script
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [greigs/legogb](https://github.com/greigs/legogb) - Functional / Playable Lego Game Boy Electronics - PCB Design Files
-- [greigs/retro-go](https://github.com/greigs/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
-- [huozhi/vaso](https://github.com/huozhi/vaso) - Liquid Glass effect for React
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 # My setup
 
 Arch Linux dual boot with Win11 pro
