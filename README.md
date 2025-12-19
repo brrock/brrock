@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages 📚
+- [Xuoon/theo-hide](https://github.com/Xuoon/theo-hide) - 
+- [Jarred-Sumner/poof](https://github.com/Jarred-Sumner/poof) - Ephemeral filesystem isolation via Linux overlayfs (experimental)
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [wildcard/caro](https://github.com/wildcard/caro) - cmdai: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included.
-- [remorses/puppeteer-script](https://github.com/remorses/puppeteer-script) - Execute actions through a readable YAML script
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 # My setup
 
 Arch Linux dual boot with Win11 pro
