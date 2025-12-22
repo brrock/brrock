@@ -19,11 +19,11 @@
 - [brrock/bedrock-prototypes](https://github.com/brrock/bedrock-prototypes) - 
 ### ⭐ Recent Stars
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [minpeter/ai-sdk-tool-call-middleware](https://github.com/minpeter/ai-sdk-tool-call-middleware) - Vercel AI SDK and middleware for models that do not support function calls
 - [mattzcarey/zagi](https://github.com/mattzcarey/zagi) - better git for agents
 - [OhadAssulin/headless-coder-sdk](https://github.com/OhadAssulin/headless-coder-sdk) - Unified SDK for headless AI coders (Codex, Claude, Gemini)
 - [snomiao/claude-yes](https://github.com/snomiao/claude-yes) - A wrapper tool that automates interactions with the Claude CLI by automatically handling common prompts and responses
-- [pingdotgg/markerthing](https://github.com/pingdotgg/markerthing) - Export Twitch markers as a LosslessCut-compatible CSV
 # My setup
 
 Arch Linux dual boot with Win11 pro
