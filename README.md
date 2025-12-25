@@ -19,11 +19,11 @@
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
+- [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
+- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [Isaaker/Spotify-AdsList](https://github.com/Isaaker/Spotify-AdsList) - A simple list to block all Spotify advertising domains
-- [LemonHX/Xmas.JS](https://github.com/LemonHX/Xmas.JS) - Xmas.JS is a lightweight, high-performance JavaScript/TypeScript runtime
-- [agentuity/sdk](https://github.com/agentuity/sdk) - The Agentuity Platform (SDK, tools and runtime)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 # My setup
 
 Arch Linux dual boot with Win11 pro
