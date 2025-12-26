@@ -19,11 +19,11 @@
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
-- [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
-- [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
-- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
-- [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
+- [oyyd/react-yue](https://github.com/oyyd/react-yue) - Render the views of Yue with React.
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+- [RchGrav/claudebox](https://github.com/RchGrav/claudebox) - The Ultimate Claude Code Docker Development Environment - Run Claude AI&#39;s coding assistant in a fully containerized, reproducible environment with pre-configured development profiles.
+- [dhth/prs](https://github.com/dhth/prs) - Stay updated on PRs from your terminal
 # My setup
 
 Arch Linux dual boot with Win11 pro
