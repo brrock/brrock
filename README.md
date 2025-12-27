@@ -19,11 +19,11 @@
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
-- [oyyd/react-yue](https://github.com/oyyd/react-yue) - Render the views of Yue with React.
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
-- [RchGrav/claudebox](https://github.com/RchGrav/claudebox) - The Ultimate Claude Code Docker Development Environment - Run Claude AI&#39;s coding assistant in a fully containerized, reproducible environment with pre-configured development profiles.
-- [dhth/prs](https://github.com/dhth/prs) - Stay updated on PRs from your terminal
+- [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform.
+- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
+- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 # My setup
 
 Arch Linux dual boot with Win11 pro
