@@ -19,11 +19,11 @@
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
-- [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform.
-- [wojtekmaj/react-time-picker](https://github.com/wojtekmaj/react-time-picker) - A time picker for your React app.
-- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
+- [zikusooka/Jambula-OS](https://github.com/zikusooka/Jambula-OS) - Jambula OS is a custom tailored Linux operating system designed for SBC devices such as the Raspberry Pi
+- [zikusooka/hass-core-installer](https://github.com/zikusooka/hass-core-installer) - An install and update tool for the latest versions of Home-Assistant core
 # My setup
 
 Arch Linux dual boot with Win11 pro
