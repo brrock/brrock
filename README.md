@@ -19,11 +19,11 @@
 - [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
-- [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk) - TypeScript SDK for ACP clients and agents.
-- [mcpc-tech/mcpc](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools.
-- [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
-- [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
-- [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - AST-aware chunking of code for contextual retrieval
+- [supavec/supavec](https://github.com/supavec/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
+- [taishikato/previewcn](https://github.com/taishikato/previewcn) - Tweak and preview shadcn/ui themes on your actual app
+- [pimoroni/presto](https://github.com/pimoroni/presto) - 
+- [themissingcow/pimoroni-presto-tmos](https://github.com/themissingcow/pimoroni-presto-tmos) - A simple single-tasking OS for the awesome Pimoroni Presto, designed for page-based applications.
+- [jake1164/awesome-Pimoroni-Presto](https://github.com/jake1164/awesome-Pimoroni-Presto) - A Curated list of awesome Pimoroni Presto resources.
 # My setup
 
 Arch Linux dual boot with Win11 pro
