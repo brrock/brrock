@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 ### 🌱 My latest projects
 
+- [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
-- [brrock/vite-plugin-singlefile](https://github.com/brrock/vite-plugin-singlefile) - 
 ### ⭐ Recent Stars
 
+- [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [supavec/supavec](https://github.com/supavec/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
 - [taishikato/previewcn](https://github.com/taishikato/previewcn) - Tweak and preview shadcn/ui themes on your actual app
 - [pimoroni/presto](https://github.com/pimoroni/presto) - 
 - [themissingcow/pimoroni-presto-tmos](https://github.com/themissingcow/pimoroni-presto-tmos) - A simple single-tasking OS for the awesome Pimoroni Presto, designed for page-based applications.
-- [jake1164/awesome-Pimoroni-Presto](https://github.com/jake1164/awesome-Pimoroni-Presto) - A Curated list of awesome Pimoroni Presto resources.
 # My setup
 
 Arch Linux dual boot with Win11 pro
