@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 - [andersmyrmel/vard](https://github.com/andersmyrmel/vard) - Lightweight prompt injection detection for LLM applications
-- [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### 🌱 My latest projects
 
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
-- [supavec/supavec](https://github.com/supavec/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
-- [taishikato/previewcn](https://github.com/taishikato/previewcn) - Tweak and preview shadcn/ui themes on your actual app
-- [pimoroni/presto](https://github.com/pimoroni/presto) - 
-- [themissingcow/pimoroni-presto-tmos](https://github.com/themissingcow/pimoroni-presto-tmos) - A simple single-tasking OS for the awesome Pimoroni Presto, designed for page-based applications.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
+- [aleks-apostle/claude-code-patches](https://github.com/aleks-apostle/claude-code-patches) - A simple patch that toggles claude-code thinking traces to be fully expanded by default without having to press ctrl &#43; o
+- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI &amp; Anthropic compatible APIs. MCP server for Cursor &amp; Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
+- [remorses/agentmap](https://github.com/remorses/agentmap) - Add structure of your codebase at the start of every opencode session. Like SKILL spec but for source code files
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 # My setup
 
 Arch Linux dual boot with Win11 pro
