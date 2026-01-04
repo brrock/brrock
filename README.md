@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [aleks-apostle/claude-code-patches](https://github.com/aleks-apostle/claude-code-patches) - A simple patch that toggles claude-code thinking traces to be fully expanded by default without having to press ctrl &#43; o
-- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI &amp; Anthropic compatible APIs. MCP server for Cursor &amp; Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
-- [remorses/agentmap](https://github.com/remorses/agentmap) - Add structure of your codebase at the start of every opencode session. Like SKILL spec but for source code files
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex) - Your own Claude Code UI — local or cloud sandbox, in-browser VS Code, terminal, multi-provider support (Max, Z.AI, OpenRouter), custom skills, and MCP servers.
 # My setup
 
 Arch Linux dual boot with Win11 pro
