@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
+- [denispol/procguard](https://github.com/denispol/procguard) - Native macOS timeout command. Works through sleep, zero CPU, JSON output. Drop-in GNU replacement in 100KB.
+- [zortos293/OpenNOW](https://github.com/zortos293/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines
-- [DNGriffin/minecraftcode](https://github.com/DNGriffin/minecraftcode) - 
-- [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 # My setup
 
 Arch Linux dual boot with Win11 pro
