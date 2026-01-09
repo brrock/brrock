@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [imLinguin/xodus](https://github.com/imLinguin/xodus) - The great gaming migration to Linux
+- [Weather-OS/GDK-Proton](https://github.com/Weather-OS/GDK-Proton) - WineGDK Protonified
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [darrenhinde/OpenAgents](https://github.com/darrenhinde/OpenAgents) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-- [jkuri/bore](https://github.com/jkuri/bore) - Reverse HTTP/TCP proxy to help you expose a local server behind a NAT or firewall to the internet via secure SSH tunnels.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 # My setup
 
 Arch Linux dual boot with Win11 pro
