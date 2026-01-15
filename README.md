@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [RiskyMH/discord-api-spec-ts](https://github.com/RiskyMH/discord-api-spec-ts) - TypeScript generated edition for Discord&#39;s OpenAPI schema
 - [ssatwik975/Speedify](https://github.com/ssatwik975/Speedify) - Speeds up the Spotify desktop client by optimizing scrolling, animations and memory usage.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️
 - [kdcokenny/opencode-workspace](https://github.com/kdcokenny/opencode-workspace) - Bundled multi-agent orchestration harness for OpenCode. One install, complete control.
 - [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
-- [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 # My setup
 
 Arch Linux dual boot with Win11 pro
