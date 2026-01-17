@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [ije/gpt](https://github.com/ije/gpt) - 
+- [shuding/better-all](https://github.com/shuding/better-all) - Better Promise.all with automatic dependency optimization
+- [Shreyas-29/avento](https://github.com/Shreyas-29/avento) - 
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux
 - [RoNotBroYT/ro-weather2](https://github.com/RoNotBroYT/ro-weather2) - 
-- [RiskyMH/discord-api-spec-ts](https://github.com/RiskyMH/discord-api-spec-ts) - TypeScript generated edition for Discord&#39;s OpenAPI schema
-- [ssatwik975/Speedify](https://github.com/ssatwik975/Speedify) - Speeds up the Spotify desktop client by optimizing scrolling, animations and memory usage.
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️
 # My setup
 
 Arch Linux dual boot with Win11 pro
