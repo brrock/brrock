@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [ije/gpt](https://github.com/ije/gpt) - 
-- [shuding/better-all](https://github.com/shuding/better-all) - Better Promise.all with automatic dependency optimization
-- [Shreyas-29/avento](https://github.com/Shreyas-29/avento) - 
-- [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux
-- [RoNotBroYT/ro-weather2](https://github.com/RoNotBroYT/ro-weather2) - 
+- [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
+- [KyleAMathews/claude-code-ui](https://github.com/KyleAMathews/claude-code-ui) - Claude Code session tracker UI with real-time updates via Durable Streams
+- [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) - Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 # My setup
 
 Arch Linux dual boot with Win11 pro
