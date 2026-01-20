@@ -5,7 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms.
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [KyleAMathews/claude-code-ui](https://github.com/KyleAMathews/claude-code-ui) - Claude Code session tracker UI with real-time updates via Durable Streams
 - [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) - Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 # My setup
 
 Arch Linux dual boot with Win11 pro
