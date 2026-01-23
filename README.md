@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [openresponses/openresponses](https://github.com/openresponses/openresponses) - 
 - [JonnyBurger/vibe-coded-video](https://github.com/JonnyBurger/vibe-coded-video) - Video generated only using prompts!
 - [vibheksoni/t3router](https://github.com/vibheksoni/t3router) - Rust library for t3.chat API - Programmatic access to Claude, GPT-4, Gemini, and 50&#43; AI models. Perfect for building your own AI-powered CLI tools and applications.
 - [schani/ralph-os](https://github.com/schani/ralph-os) - A vibe-coded toy operating system - x86-64, co-op multitasking, no memory protection, written in Rust
-- [msmps/opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI skill for use with OpenCode
-- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 # My setup
 
 Arch Linux dual boot with Win11 pro
