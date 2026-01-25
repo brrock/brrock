@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [coder/blink](https://github.com/coder/blink) - Blink is a tool for building and sharing AI agents.
-- [reaz1995/ghost-cursor-playwright](https://github.com/reaz1995/ghost-cursor-playwright) - Modification of actual ghost-cursor for puppeteer, with more functionality and rewrited to work well with playwight.
-- [hdorgeval/playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API around playwright
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
-- [volta-net/volta](https://github.com/volta-net/volta) - A better GitHub inbox for busy maintainers.
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [daniel5151/clicky](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
+- [demanr/tango](https://github.com/demanr/tango) - HTN 2025, what Siri wishes it could be
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 # My setup
 
 Arch Linux dual boot with Win11 pro
