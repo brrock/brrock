@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [hakonharnes/emcc-obf](https://github.com/hakonharnes/emcc-obf) - Modified Emscripten compiler with LLVM-level obfuscation
-- [emilycodestar/cmd-chat](https://github.com/emilycodestar/cmd-chat) - My ISP tried to block this repo. 🤐  A truly peer-to-peer, end-to-end encrypted CLI chat that leaves NO logs. Perfect for... sensitive discussions. 🔥 Get it before it gets taken down
-- [tonybanters/tonarchy](https://github.com/tonybanters/tonarchy) - 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
+- [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets.
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+- [vercel/edge-runtime](https://github.com/vercel/edge-runtime) - Developing, testing, and defining the runtime Web APIs for Edge infrastructure.
 # My setup
 
 Arch Linux dual boot with Win11 pro
