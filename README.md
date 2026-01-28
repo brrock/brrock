@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [ndycode/redpen](https://github.com/ndycode/redpen) - Code review checklist for AI-generated code. Step through prompts, paste into your AI, fix issues, mark done. Progress saves per git branch.
+- [steipete/tokentally](https://github.com/steipete/tokentally) - One tiny lib for LLM token &#43; cost math
+- [ndycode/oc-chatgpt-multi-auth](https://github.com/ndycode/oc-chatgpt-multi-auth) - Multi-account ChatGPT OAuth plugin for OpenCode — GPT-5.2/5.1 Codex with health-aware rotation, auto-failover, and session recovery
+- [mattt/AnyLanguageModel](https://github.com/mattt/AnyLanguageModel) - An API-compatible, drop-in replacement for Apple&#39;s Foundation Models framework with support for custom language model providers.
 - [pi0/shiki-image](https://github.com/pi0/shiki-image) - Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
-- [waynesutton/opensync](https://github.com/waynesutton/opensync) - Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets.
-- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
-- [vercel/edge-runtime](https://github.com/vercel/edge-runtime) - Developing, testing, and defining the runtime Web APIs for Edge infrastructure.
 # My setup
 
 Arch Linux dual boot with Win11 pro
