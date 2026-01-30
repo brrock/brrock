@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [UshiHiraga/autolingo](https://github.com/UshiHiraga/autolingo) - An extension that completes Duolingo lessons, so you don&#39;t have to
-- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
-- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu&#39;s curated collection of agent skills.
-- [ndycode/redpen](https://github.com/ndycode/redpen) - Code review checklist for AI-generated code. Step through prompts, paste into your AI, fix issues, mark done. Progress saves per git branch.
-- [steipete/tokentally](https://github.com/steipete/tokentally) - One tiny lib for LLM token &#43; cost math
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
+- [cyrilwanner/next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - 💡next-compose-plugins provides a cleaner API for enabling and configuring plugins for next.js
 # My setup
 
 Arch Linux dual boot with Win11 pro
