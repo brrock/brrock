@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
+- [get-convex/convex-js](https://github.com/get-convex/convex-js) - TypeScript/JavaScript client library for Convex
+- [JasonDocton/lucid-memory](https://github.com/JasonDocton/lucid-memory) - Memory for AI that actually works like memory—local, fast, and cognitive. Memory that lives beyond compaction.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
-- [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500&#43; SaaS app integrations
-- [duanebester/pgui](https://github.com/duanebester/pgui) - GUI app to query Postgres - Powered by GPUI
-- [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 # My setup
 
 Arch Linux dual boot with Win11 pro
