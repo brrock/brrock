@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
-- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
-- [get-convex/convex-js](https://github.com/get-convex/convex-js) - TypeScript/JavaScript client library for Convex
-- [JasonDocton/lucid-memory](https://github.com/JasonDocton/lucid-memory) - Memory for AI that actually works like memory—local, fast, and cognitive. Memory that lives beyond compaction.
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [imrofayel/Ozan](https://github.com/imrofayel/Ozan) - Ozan is a personal knowledge base inspired from Obsidian built on flutter.
+- [imrofayel/fylepad](https://github.com/imrofayel/fylepad) - A cross platform notepad for effortless note-taking — featuring rich text editing, multiple tabs, cloud sync, and built-in support for Mermaid/PlantUML diagrams, tables, code blocks, and more.
+- [antfu/fast-npm-meta](https://github.com/antfu/fast-npm-meta) - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.
 # My setup
 
 Arch Linux dual boot with Win11 pro
