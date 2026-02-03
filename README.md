@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [imrofayel/Ozan](https://github.com/imrofayel/Ozan) - Ozan is a personal knowledge base inspired from Obsidian built on flutter.
 - [imrofayel/fylepad](https://github.com/imrofayel/fylepad) - A cross platform notepad for effortless note-taking — featuring rich text editing, multiple tabs, cloud sync, and built-in support for Mermaid/PlantUML diagrams, tables, code blocks, and more.
-- [antfu/fast-npm-meta](https://github.com/antfu/fast-npm-meta) - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.
 # My setup
 
 Arch Linux dual boot with Win11 pro
