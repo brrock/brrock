@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box &amp; user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
+- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
-- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
+- [Hookflo/tern](https://github.com/Hookflo/tern) - A robust, scalable webhook verification framework supporting multiple platforms and signature algorithms.
+- [CRJFisher/ariadne](https://github.com/CRJFisher/ariadne) - 🧵 Follow the thread through your codebase - find definitions, track references, and build call graphs with tree-sitter
+- [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [alii/sinking](https://github.com/alii/sinking) - Cross-tab IndexedDB sync via SharedWorker
 # My setup
 
 Arch Linux dual boot with Win11 pro
