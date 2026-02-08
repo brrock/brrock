@@ -19,11 +19,11 @@
 - [brrock/birthday-card-generator-workflow-demo](https://github.com/brrock/birthday-card-generator-workflow-demo) - 
 ### ⭐ Recent Stars
 
+- [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [Bad3r/claude-code-internals](https://github.com/Bad3r/claude-code-internals) - Claude Code self-exploration: 72 sections of undocumented internals discovered by asking Claude to reverse-engineer itself
 - [Hookflo/tern](https://github.com/Hookflo/tern) - A robust, scalable webhook verification framework supporting multiple platforms and signature algorithms.
 - [CRJFisher/ariadne](https://github.com/CRJFisher/ariadne) - 🧵 Follow the thread through your codebase - find definitions, track references, and build call graphs with tree-sitter
-- [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [alii/sinking](https://github.com/alii/sinking) - Cross-tab IndexedDB sync via SharedWorker
 # My setup
 
 Arch Linux dual boot with Win11 pro
