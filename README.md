@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [anuoua/shadcn-packaged](https://github.com/anuoua/shadcn-packaged) - This is an npm package that exports all shadcn/ui components without the need for a CLI, designed for ease of use.
+- [stacksjs/dtsx](https://github.com/stacksjs/dtsx) - ⚡ Extremely fast, smart &amp; configurable DTS emitter.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Open-source Claude Code Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile
-- [tigent/app](https://github.com/tigent/app) - ai-powered github triage agent
 # My setup
 
 Arch Linux dual boot with Win11 pro
