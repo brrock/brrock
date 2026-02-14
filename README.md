@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [CapSoftware/globlin](https://github.com/CapSoftware/globlin) - A high-performance glob pattern matcher for Node.js, built in Rust.
+- [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M&#43; Kilo Coders. 25T&#43; tokens processed
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills
-- [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
-- [anuoua/shadcn-packaged](https://github.com/anuoua/shadcn-packaged) - This is an npm package that exports all shadcn/ui components without the need for a CLI, designed for ease of use.
-- [stacksjs/dtsx](https://github.com/stacksjs/dtsx) - ⚡ Extremely fast, smart &amp; configurable DTS emitter.
 # My setup
 
 Arch Linux dual boot with Win11 pro
