@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [CapSoftware/globlin](https://github.com/CapSoftware/globlin) - A high-performance glob pattern matcher for Node.js, built in Rust.
-- [taiki-e/checkout-action](https://github.com/taiki-e/checkout-action) - GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.)
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M&#43; Kilo Coders. 25T&#43; tokens processed
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw
+- [theonlyhennygod/zeroclaw](https://github.com/theonlyhennygod/zeroclaw) - claw done right 🦀
+- [harlan-zw/skilld](https://github.com/harlan-zw/skilld) - Generate AI agent skills from your NPM dependencies. npx skilld
+- [joshavant/clawbox](https://github.com/joshavant/clawbox) - OpenClaw-ready macOS VMs
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 # My setup
 
 Arch Linux dual boot with Win11 pro
