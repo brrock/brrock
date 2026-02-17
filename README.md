@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker&#39;s wage.
+- [amitripshtos/drumtrack](https://github.com/amitripshtos/drumtrack) - Isolate drums from any song and generate a playable MIDI drum track
 - [atmajs/cronbee](https://github.com/atmajs/cronbee) - Node.js task scheduler with crontab and schtasks
 - [ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli) - Deploy any container to Cloudflare with a single command.
 - [ygwyg/system](https://github.com/ygwyg/system) - Control your mac from anywhere with AI
-- [ygwyg/merchant](https://github.com/ygwyg/merchant) - The backend for selling things on the internet.
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw
 # My setup
 
 Arch Linux dual boot with Win11 pro
