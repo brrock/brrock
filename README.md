@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [simples-tools/.github](https://github.com/simples-tools/.github) - 
+- [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box &amp; user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
-- [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
-- [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### 🌱 My latest projects
 
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
+- [different-ai/opencode-browser](https://github.com/different-ai/opencode-browser) - OpenCode plugin to automate Chrome. Inspired by Claude in Chrome.
+- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker&#39;s wage.
-- [amitripshtos/drumtrack](https://github.com/amitripshtos/drumtrack) - Isolate drums from any song and generate a playable MIDI drum track
-- [atmajs/cronbee](https://github.com/atmajs/cronbee) - Node.js task scheduler with crontab and schtasks
-- [ygwyg/cloud-cli](https://github.com/ygwyg/cloud-cli) - Deploy any container to Cloudflare with a single command.
-- [ygwyg/system](https://github.com/ygwyg/system) - Control your mac from anywhere with AI
 # My setup
 
 Arch Linux dual boot with Win11 pro
