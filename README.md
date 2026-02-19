@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [simples-tools/.github](https://github.com/simples-tools/.github) - 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
+- [simples-tools/.github](https://github.com/simples-tools/.github) - 
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box &amp; user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+- [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
+- [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
-- [different-ai/opencode-browser](https://github.com/different-ai/opencode-browser) - OpenCode plugin to automate Chrome. Inspired by Claude in Chrome.
-- [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent) - An AI agent that can get things done across iPhone apps.
-- [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker&#39;s wage.
 # My setup
 
 Arch Linux dual boot with Win11 pro
