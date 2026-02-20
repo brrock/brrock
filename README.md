@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
+- [astrum-chat/gpui_tesserae](https://github.com/astrum-chat/gpui_tesserae) - A component system for GPUI.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-- [jlokos/raybridge](https://github.com/jlokos/raybridge) - MCP server that bridges Raycast extensions to any MCP-compatible client
-- [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
-- [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 # My setup
 
 Arch Linux dual boot with Win11 pro
