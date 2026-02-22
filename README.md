@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jaredpalmer/agentik](https://github.com/jaredpalmer/agentik) - Composable AI agent runtime
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [astrum-chat/gpui_tesserae](https://github.com/astrum-chat/gpui_tesserae) - A component system for GPUI.
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 # My setup
 
 Arch Linux dual boot with Win11 pro
