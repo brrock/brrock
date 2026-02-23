@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
-- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [jaredpalmer/agentik](https://github.com/jaredpalmer/agentik) - Composable AI agent runtime
-- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
-- [astrum-chat/gpui_tesserae](https://github.com/astrum-chat/gpui_tesserae) - A component system for GPUI.
+- [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+- [jtenniswood/esphome-media-player](https://github.com/jtenniswood/esphome-media-player) - Esphome media player touch screen setup
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+- [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane) - A Pure Rust based LLM, VLM, VLA, TTS, OCR Inference Engine, powering by Candle &amp; Rust. Alternate to your llama.cpp but much more simpler and cleaner..
 # My setup
 
 Arch Linux dual boot with Win11 pro
