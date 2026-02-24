@@ -19,11 +19,11 @@
 - [brrock/vard-playground](https://github.com/brrock/vard-playground) - 
 ### ⭐ Recent Stars
 
+- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
+- [T3-Content/quipslop](https://github.com/T3-Content/quipslop) - 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [usetrmnl/inker](https://github.com/usetrmnl/inker) - BYOS server written in TypeScript / React / Prisma
 - [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) - GPUI – Community Edition
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [jtenniswood/esphome-media-player](https://github.com/jtenniswood/esphome-media-player) - Esphome media player touch screen setup
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
-- [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane) - A Pure Rust based LLM, VLM, VLA, TTS, OCR Inference Engine, powering by Candle &amp; Rust. Alternate to your llama.cpp but much more simpler and cleaner..
 # My setup
 
 Arch Linux dual boot with Win11 pro
