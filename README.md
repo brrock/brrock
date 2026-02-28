@@ -19,11 +19,11 @@
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 ### ⭐ Recent Stars
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [minpeter/plugsuits](https://github.com/minpeter/plugsuits) - Plug and go, native like a suit
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [pingdotgg/lawn](https://github.com/pingdotgg/lawn) - 
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
-- [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS
-- [T3-Content/quipslop](https://github.com/T3-Content/quipslop) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
