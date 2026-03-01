@@ -19,11 +19,11 @@
 - [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 ### ⭐ Recent Stars
 
+- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed GPUI. Very experimental and broken
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
+- [steipete/spogo](https://github.com/steipete/spogo) - 🎧 Spotify, but make it terminal. Power CLI using web cookies.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [minpeter/plugsuits](https://github.com/minpeter/plugsuits) - Plug and go, native like a suit
-- [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
-- [pingdotgg/lawn](https://github.com/pingdotgg/lawn) - 
-- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 # My setup
 
 Arch Linux dual boot with Win11 pro
