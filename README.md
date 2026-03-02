@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 - [simples-tools/.github](https://github.com/simples-tools/.github) - 
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code&#39;s system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box &amp; user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 ### 🌱 My latest projects
 
+- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
-- [brrock/fullbun](https://github.com/brrock/fullbun) - Full stack bun template with React Router, Shadcn, and Hono. No vite, all bundled with bun. No monorepo needed.
 ### ⭐ Recent Stars
 
+- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
+- [Teyik0/basic-bun-hmr-with-ssr](https://github.com/Teyik0/basic-bun-hmr-with-ssr) - 
 - [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed GPUI. Very experimental and broken
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
-- [steipete/spogo](https://github.com/steipete/spogo) - 🎧 Spotify, but make it terminal. Power CLI using web cookies.
-- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 # My setup
 
 Arch Linux dual boot with Win11 pro
