@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
+- [vercel-labs/webreel](https://github.com/vercel-labs/webreel) - Record scripted browser demos as video
+- [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [Teyik0/basic-bun-hmr-with-ssr](https://github.com/Teyik0/basic-bun-hmr-with-ssr) - 
 - [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed GPUI. Very experimental and broken
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 # My setup
 
 Arch Linux dual boot with Win11 pro
