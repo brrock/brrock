@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [vercel-labs/webreel](https://github.com/vercel-labs/webreel) - Record scripted browser demos as video
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
-- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
-- [Teyik0/basic-bun-hmr-with-ssr](https://github.com/Teyik0/basic-bun-hmr-with-ssr) - 
-- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed GPUI. Very experimental and broken
 # My setup
 
 Arch Linux dual boot with Win11 pro
