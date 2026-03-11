@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
+- [educlopez/codevator](https://github.com/educlopez/codevator) - Background sounds that play while Claude Code works and stop when it needs your attention — so the silence doesn&#39;t drive you to a “that&#39;s what she said” moment.
 - [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
