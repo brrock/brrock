@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 - [simples-tools/.github](https://github.com/simples-tools/.github) - 
-- [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 ### 🌱 My latest projects
 
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
