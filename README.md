@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
-- [educlopez/codevator](https://github.com/educlopez/codevator) - Background sounds that play while Claude Code works and stop when it needs your attention — so the silence doesn&#39;t drive you to a “that&#39;s what she said” moment.
-- [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
+- [vercel/acp-handler](https://github.com/vercel/acp-handler) - Integrate the Agentic Commerce Protocol (ACP) into your servers
+- [vxcozy/tome](https://github.com/vxcozy/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source Mintlify alternative.
+- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite&#43; is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 # My setup
 
 Arch Linux dual boot with Win11 pro
