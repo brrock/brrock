@@ -5,10 +5,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
-- [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
+- [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
+- [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [simples-tools/.github](https://github.com/simples-tools/.github) - 
 ### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
 - [vercel/acp-handler](https://github.com/vercel/acp-handler) - Integrate the Agentic Commerce Protocol (ACP) into your servers
-- [vxcozy/tome](https://github.com/vxcozy/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source Mintlify alternative.
+- [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source Mintlify alternative.
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 # My setup
 
