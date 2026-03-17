@@ -22,7 +22,7 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
 - [vercel/acp-handler](https://github.com/vercel/acp-handler) - Integrate the Agentic Commerce Protocol (ACP) into your servers
-- [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source Mintlify alternative.
+- [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source with all of your favorite features.
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 # My setup
 
