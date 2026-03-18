@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
+- [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into whatever you need.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
 - [vercel/acp-handler](https://github.com/vercel/acp-handler) - Integrate the Agentic Commerce Protocol (ACP) into your servers
 - [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source with all of your favorite features.
-- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 # My setup
 
 Arch Linux dual boot with Win11 pro
