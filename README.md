@@ -19,11 +19,11 @@
 - [brrock/kahoot-factcheck](https://github.com/brrock/kahoot-factcheck) - Fact checker for kahoots, powered by AI
 ### ⭐ Recent Stars
 
+- [feedthejim/ratio-resume](https://github.com/feedthejim/ratio-resume) - 
 - [johannschopplich/tokenx](https://github.com/johannschopplich/tokenx) - 📐 Fast token estimation at 96% accuracy of a full tokenizer in a 2kB bundle
 - [egoist/cursor-openai-api](https://github.com/egoist/cursor-openai-api) - A standalone CLI that serves Cursor&#39;s API as an OpenAI-compatible endpoint.
 - [deathbyknowledge/ripgit](https://github.com/deathbyknowledge/ripgit) - A fast, searchable, self-hosted Git remote built with Durable Objects
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
-- [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 # My setup
 
 Arch Linux dual boot with Win11 pro
