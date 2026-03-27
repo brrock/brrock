@@ -19,11 +19,11 @@
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 ### ⭐ Recent Stars
 
+- [paper-design/paper-mono](https://github.com/paper-design/paper-mono) - 
+- [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-- [johannschopplich/tokenx](https://github.com/johannschopplich/tokenx) - 📐 Fast token estimation at 96% accuracy of a full tokenizer in a 2kB bundle
-- [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 # My setup
 
 Arch Linux dual boot with Win11 pro
