@@ -19,11 +19,11 @@
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 ### ⭐ Recent Stars
 
+- [ShaneBeeStudios/McDeob](https://github.com/ShaneBeeStudios/McDeob) - Re-mapping and deobfuscation tool for Minecraft
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [productdevbook/etiket](https://github.com/productdevbook/etiket) - Zero-dependency barcode &amp; QR code SVG, PNG generator. 40&#43; formats, styled QR codes, tree-shakeable. Pure TypeScript.
 - [paper-design/paper-mono](https://github.com/paper-design/paper-mono) - 
-- [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 # My setup
 
 Arch Linux dual boot with Win11 pro
