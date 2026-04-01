@@ -19,11 +19,11 @@
 - [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 ### ⭐ Recent Stars
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
+- [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) - Runnable ClaudeCode source code
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+- [maria-rcks/t1code](https://github.com/maria-rcks/t1code) - T3Code, but in your terminal
 - [ShaneBeeStudios/McDeob](https://github.com/ShaneBeeStudios/McDeob) - Re-mapping and deobfuscation tool for Minecraft
-- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [productdevbook/etiket](https://github.com/productdevbook/etiket) - Zero-dependency barcode &amp; QR code SVG, PNG generator. 40&#43; formats, styled QR codes, tree-shakeable. Pure TypeScript.
-- [paper-design/paper-mono](https://github.com/paper-design/paper-mono) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
