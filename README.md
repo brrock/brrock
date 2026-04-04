@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 - [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
-- [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### 🌱 My latest projects
 
+- [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
-- [brrock/realtimetrains-api](https://github.com/brrock/realtimetrains-api) - API for realtimetrains 
 ### ⭐ Recent Stars
 
-- [mattzcarey/gitty](https://github.com/mattzcarey/gitty) - Pure Zig git implementation. Zero dependencies. 62KB WASM. 60x faster than Rust.
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
-- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries. 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+- [angristan/netclode](https://github.com/angristan/netclode) - Self hosted cloud coding agent with k3s &#43; kata containers &#43; cloud hypervisor microVMs &#43; tailscale &#43; any harness &#43; a nice iOS app
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette
+- [angristan/noclaw](https://github.com/angristan/noclaw) - The absolute smallest fully autonomous AI assistant... for now
+- [angristan/codex-wakatime](https://github.com/angristan/codex-wakatime) - Codex plugin for Wakatime
 # My setup
 
 Arch Linux dual boot with Win11 pro
