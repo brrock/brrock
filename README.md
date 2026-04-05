@@ -19,11 +19,11 @@
 - [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 ### ⭐ Recent Stars
 
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-- [angristan/netclode](https://github.com/angristan/netclode) - Self hosted cloud coding agent with k3s &#43; kata containers &#43; cloud hypervisor microVMs &#43; tailscale &#43; any harness &#43; a nice iOS app
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette
-- [angristan/noclaw](https://github.com/angristan/noclaw) - The absolute smallest fully autonomous AI assistant... for now
-- [angristan/codex-wakatime](https://github.com/angristan/codex-wakatime) - Codex plugin for Wakatime
+- [Yxmura/t3proxy](https://github.com/Yxmura/t3proxy) - Making opencode work with t3chat subscription
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [prisma/prisma-next](https://github.com/prisma/prisma-next) - 
+- [productdevbook/sumak](https://github.com/productdevbook/sumak) - Type-safe SQL query builder. Zero dependencies, AST-first, hookable, tree-shakeable. Pure TypeScript.
+- [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance &amp; developer experience.
 # My setup
 
 Arch Linux dual boot with Win11 pro
