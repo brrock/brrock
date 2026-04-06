@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
-- [zortos293/t3code-copilot](https://github.com/zortos293/t3code-copilot) - T3 Code with GitHub Copilot support, kept up to date with upstream plus Copilot changes.
 ### 🌱 My latest projects
 
+- [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
-- [brrock/tmux-installer](https://github.com/brrock/tmux-installer) - Tmux prebuilt releases
 ### ⭐ Recent Stars
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [Yxmura/t3proxy](https://github.com/Yxmura/t3proxy) - Making opencode work with t3chat subscription
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [prisma/prisma-next](https://github.com/prisma/prisma-next) - 
 - [productdevbook/sumak](https://github.com/productdevbook/sumak) - Type-safe SQL query builder. Zero dependencies, AST-first, hookable, tree-shakeable. Pure TypeScript.
-- [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance &amp; developer experience.
 # My setup
 
 Arch Linux dual boot with Win11 pro
