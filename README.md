@@ -19,11 +19,11 @@
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### ⭐ Recent Stars
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [A248/LibertyBans](https://github.com/A248/LibertyBans) - The be-all, end-all of discipline.
 - [vercel-labs/agent-eval](https://github.com/vercel-labs/agent-eval) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection 
-- [igorriti/muscle-memory](https://github.com/igorriti/muscle-memory) - Save money, be smarter
 # My setup
 
 Arch Linux dual boot with Win11 pro
