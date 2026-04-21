@@ -19,11 +19,11 @@
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### ⭐ Recent Stars
 
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [A248/LibertyBans](https://github.com/A248/LibertyBans) - The be-all, end-all of discipline.
-- [vercel-labs/agent-eval](https://github.com/vercel-labs/agent-eval) - 
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 # My setup
 
 Arch Linux dual boot with Win11 pro
