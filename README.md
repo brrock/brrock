@@ -19,11 +19,11 @@
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### ⭐ Recent Stars
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [prathamdupare/hati](https://github.com/prathamdupare/hati) - A self-hosted dashboard that puts all your feeds in one place.
 - [fayazara/feedful](https://github.com/fayazara/feedful) - A modern RSS reader in the style of Tweetdeck
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 # My setup
 
 Arch Linux dual boot with Win11 pro
