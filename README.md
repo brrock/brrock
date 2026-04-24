@@ -19,11 +19,11 @@
 - [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### ⭐ Recent Stars
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [prathamdupare/hati](https://github.com/prathamdupare/hati) - A self-hosted dashboard that puts all your feeds in one place.
 - [fayazara/feedful](https://github.com/fayazara/feedful) - A modern RSS reader in the style of Tweetdeck
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 # My setup
 
 Arch Linux dual boot with Win11 pro
