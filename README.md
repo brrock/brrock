@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
-- [simples-tools/next-single-file](https://github.com/simples-tools/next-single-file) - Simple way to put a fulll nextjs project into a single html file, regex based, lightning fast, routing support (via hash)
 ### 🌱 My latest projects
 
+- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
-- [brrock/codex-app-server-ts](https://github.com/brrock/codex-app-server-ts) - Repo for using the codex app server in TS makes a clean api 
 ### ⭐ Recent Stars
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [prathamdupare/hati](https://github.com/prathamdupare/hati) - A self-hosted dashboard that puts all your feeds in one place.
-- [fayazara/feedful](https://github.com/fayazara/feedful) - A modern RSS reader in the style of Tweetdeck
-- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
+- [raine/workmux](https://github.com/raine/workmux) - git worktrees &#43; tmux windows for zero-friction parallel dev
+- [nullitics/nullitics](https://github.com/nullitics/nullitics) - Minimalist open-source web analytics
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C&#43;&#43;. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 # My setup
 
 Arch Linux dual boot with Win11 pro
