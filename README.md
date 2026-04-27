@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
+- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
@@ -19,11 +19,11 @@
 - [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 ### ⭐ Recent Stars
 
+- [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
+- [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
-- [raine/workmux](https://github.com/raine/workmux) - git worktrees &#43; tmux windows for zero-friction parallel dev
 - [nullitics/nullitics](https://github.com/nullitics/nullitics) - Minimalist open-source web analytics
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C&#43;&#43;. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 # My setup
 
 Arch Linux dual boot with Win11 pro
