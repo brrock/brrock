@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
-- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 ### 🌱 My latest projects
 
+- [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
 - [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
-- [brrock/fwp-api](https://github.com/brrock/fwp-api) - 
 ### ⭐ Recent Stars
 
+- [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free OpenAI API access with your ChatGPT account.
+- [lochie/web-haptics](https://github.com/lochie/web-haptics) - Haptic feedback for the mobile web
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 - [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
-- [brrock/small-libs](https://github.com/brrock/small-libs) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
