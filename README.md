@@ -5,18 +5,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/patchsync](https://github.com/brrock/patchsync) - 
+- [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
-- [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
-- [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 ### 🌱 My latest projects
 
+- [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
+- [brrock/patchsync](https://github.com/brrock/patchsync) - 
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
-- [brrock/mative-ui](https://github.com/brrock/mative-ui) - 
-- [brrock/review-cli](https://github.com/brrock/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 ### ⭐ Recent Stars
 
 - [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free OpenAI API access with your ChatGPT account.
