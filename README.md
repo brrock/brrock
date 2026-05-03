@@ -5,7 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/patchsync](https://github.com/brrock/patchsync) - 
+- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
@@ -13,17 +13,17 @@
 ### 🌱 My latest projects
 
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
-- [brrock/patchsync](https://github.com/brrock/patchsync) - 
+- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [brrock/small-libs](https://github.com/brrock/small-libs) - 
 ### ⭐ Recent Stars
 
+- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
+- [Emanuele-web04/dpcode](https://github.com/Emanuele-web04/dpcode) - The best place to build with your AI sub
 - [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free OpenAI API access with your ChatGPT account.
 - [lochie/web-haptics](https://github.com/lochie/web-haptics) - Haptic feedback for the mobile web
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
-- [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) - OpenCode plugin for using ChatGPT Plus/Pro in GPT-5 and Codex workflows with OAuth login, multi-account rotation, failover, and guided setup
 # My setup
 
 Arch Linux dual boot with Win11 pro
