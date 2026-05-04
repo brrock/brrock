@@ -6,17 +6,17 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
+- [simples-tools/git-commit-renamer-skill](https://github.com/simples-tools/git-commit-renamer-skill) - Simple skill explaining how to rename commits to agents
+- [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
-- [brrock/small-libs](https://github.com/brrock/small-libs) - 
-- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 ### 🌱 My latest projects
 
+- [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 - [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
-- [brrock/small-libs](https://github.com/brrock/small-libs) - 
 ### ⭐ Recent Stars
 
 - [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
