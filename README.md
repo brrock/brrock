@@ -19,11 +19,11 @@
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 ### ⭐ Recent Stars
 
+- [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [openvideodev/openvideo](https://github.com/openvideodev/openvideo) - Open-source React Video Editor with client-side rendering (WebCodecs) and pixi.js. Capcut clone. Canva clone. React video editor. webgl video editor.
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [Just-Moh-it/Mockoops](https://github.com/Just-Moh-it/Mockoops) - Create 💎 beautiful animations from boring screen recordings within ⏳ seconds
 - [zenbu-labs/zenbu](https://github.com/zenbu-labs/zenbu) - The personal software app
-- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
 # My setup
 
 Arch Linux dual boot with Win11 pro
