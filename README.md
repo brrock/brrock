@@ -19,11 +19,11 @@
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 ### ⭐ Recent Stars
 
+- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust &amp; Tauri &amp; React
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop &#43; mobile apps with Zig and web UI
-- [Lifeisawful/rosettax87_jit](https://github.com/Lifeisawful/rosettax87_jit) - rosettax87 but with jit
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
-- [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
-- [openvideodev/openvideo](https://github.com/openvideodev/openvideo) - Open-source React Video Editor with client-side rendering (WebCodecs) and pixi.js. Capcut clone. Canva clone. React video editor. webgl video editor.
 # My setup
 
 Arch Linux dual boot with Win11 pro
