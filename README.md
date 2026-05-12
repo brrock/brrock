@@ -5,10 +5,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [simples-tools/review-cli](https://github.com/simples-tools/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 - [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
-- [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 - [simples-tools/git-commit-renamer-skill](https://github.com/simples-tools/git-commit-renamer-skill) - Simple skill explaining how to rename commits to agents
 ### 🌱 My latest projects
 
