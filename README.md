@@ -19,11 +19,11 @@
 - [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 ### ⭐ Recent Stars
 
-- [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - 
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust &amp; Tauri &amp; React
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [getsentry/junior](https://github.com/getsentry/junior) - 
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - The fastest way to deploy and scale any application
+- [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 # My setup
 
 Arch Linux dual boot with Win11 pro
