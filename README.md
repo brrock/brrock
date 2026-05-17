@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/pi-config](https://github.com/brrock/pi-config) - 
+- [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [simples-tools/review-cli](https://github.com/simples-tools/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
-- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
-- [simples-tools/git-commit-renamer-skill](https://github.com/simples-tools/git-commit-renamer-skill) - Simple skill explaining how to rename commits to agents
 ### 🌱 My latest projects
 
+- [brrock/pi-config](https://github.com/brrock/pi-config) - 
+- [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 - [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
-- [brrock/patchsync](https://github.com/brrock/patchsync) - GitHub Action for maintaining patch stacks against an upstream repository.
-- [brrock/openai-oauth-brew](https://github.com/brrock/openai-oauth-brew) - Homebrew tap for openai-oauth
 ### ⭐ Recent Stars
 
+- [justrach/merjs](https://github.com/justrach/merjs) - A Zig-native web framework. File-based routing, SSR, type-safe APIs, WASM client interactivity. No Node. No npm. Just zig build serve.
+- [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex&#43;&#43; tweak system for the Codex desktop app
 - [getsentry/junior](https://github.com/getsentry/junior) - 
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork) - The fastest way to deploy and scale any application
-- [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 # My setup
 
 Arch Linux dual boot with Win11 pro
