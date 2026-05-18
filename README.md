@@ -19,11 +19,11 @@
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 ### ⭐ Recent Stars
 
+- [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It&#39;s a coding agent.
 - [justrach/merjs](https://github.com/justrach/merjs) - A Zig-native web framework. File-based routing, SSR, type-safe APIs, WASM client interactivity. No Node. No npm. Just zig build serve.
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex&#43;&#43; tweak system for the Codex desktop app
 - [getsentry/junior](https://github.com/getsentry/junior) - 
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 # My setup
 
 Arch Linux dual boot with Win11 pro
