@@ -19,11 +19,11 @@
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 ### ⭐ Recent Stars
 
+- [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go. 
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It&#39;s a coding agent.
 - [justrach/merjs](https://github.com/justrach/merjs) - A Zig-native web framework. File-based routing, SSR, type-safe APIs, WASM client interactivity. No Node. No npm. Just zig build serve.
 - [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex&#43;&#43; tweak system for the Codex desktop app
 - [getsentry/junior](https://github.com/getsentry/junior) - 
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 # My setup
 
 Arch Linux dual boot with Win11 pro
