@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
+- [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [simples-tools/review-cli](https://github.com/simples-tools/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
@@ -19,11 +19,11 @@
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 ### ⭐ Recent Stars
 
+- [MiniPlaceholders/MiniPlaceholders](https://github.com/MiniPlaceholders/MiniPlaceholders) - MiniMessage Component-based Placeholders API for Minecraft Platforms
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) - A large collection of high-quality React components that you can copy and paste into any project.
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go. 
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It&#39;s a coding agent.
-- [justrach/merjs](https://github.com/justrach/merjs) - A Zig-native web framework. File-based routing, SSR, type-safe APIs, WASM client interactivity. No Node. No npm. Just zig build serve.
 # My setup
 
 Arch Linux dual boot with Win11 pro
