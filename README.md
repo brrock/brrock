@@ -19,11 +19,11 @@
 - [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 ### ⭐ Recent Stars
 
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+- [bountydotnew/tripwire](https://github.com/bountydotnew/tripwire) - 
+- [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 - [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
-- [MiniPlaceholders/MiniPlaceholders](https://github.com/MiniPlaceholders/MiniPlaceholders) - MiniMessage Component-based Placeholders API for Minecraft Platforms
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) - A large collection of high-quality React components that you can copy and paste into any project.
-- [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go. 
 # My setup
 
 Arch Linux dual boot with Win11 pro
