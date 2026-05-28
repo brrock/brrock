@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [simples-tools/review-cli](https://github.com/simples-tools/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
-- [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 ### 🌱 My latest projects
 
+- [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 - [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
-- [brrock/patchsync-test](https://github.com/brrock/patchsync-test) - 
 ### ⭐ Recent Stars
 
+- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40&#43; providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [bountydotnew/tripwire](https://github.com/bountydotnew/tripwire) - 
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
-- [justrach/nanobrew](https://github.com/justrach/nanobrew) - The fastest macOS package manager. Written in Zig. 3ms warm installs.
 # My setup
 
 Arch Linux dual boot with Win11 pro
