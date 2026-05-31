@@ -19,11 +19,11 @@
 - [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 ### ⭐ Recent Stars
 
+- [patriceckhart/zot](https://github.com/patriceckhart/zot) - Yet another coding agent harness, lightweight and written in go.
 - [e18e/setup-publish](https://github.com/e18e/setup-publish) - A tiny CLI to help setting up npm publish workflows.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit &amp; Tailwind CSS.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40&#43; providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 # My setup
 
 Arch Linux dual boot with Win11 pro
