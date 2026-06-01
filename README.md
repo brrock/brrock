@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [simples-tools/cc-patchr](https://github.com/simples-tools/cc-patchr) - Simple patching tool for claude code that lets you natviely use AGENTS.md and .agents/skills 
 - [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
-- [simples-tools/review-cli](https://github.com/simples-tools/review-cli) - ⚡ CLI for GitHub viewing PR reviews. Filter threads by reviewer, export JSON, built with Bun. Perfect for agents &amp; humans. Skills included.
 ### 🌱 My latest projects
 
 - [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
@@ -19,11 +19,11 @@
 - [brrock/t3code-patches](https://github.com/brrock/t3code-patches) - patches for t3code with patchsync 
 ### ⭐ Recent Stars
 
-- [patriceckhart/zot](https://github.com/patriceckhart/zot) - Yet another coding agent harness, lightweight and written in go.
-- [e18e/setup-publish](https://github.com/e18e/setup-publish) - A tiny CLI to help setting up npm publish workflows.
-- [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit &amp; Tailwind CSS.
-- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40&#43; providers. Auto-fallback, RTK -40% tokens, never hit limits.
-- [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20&#43; plugins. Used by Vercel, OpenCode, and PayPal.
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
+- [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
+- [Mrmayman/quantumlauncher](https://github.com/Mrmayman/quantumlauncher) - A simple, powerful Minecraft launcher
 # My setup
 
 Arch Linux dual boot with Win11 pro
