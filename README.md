@@ -19,11 +19,11 @@
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 ### ⭐ Recent Stars
 
+- [Pumpkin-MC/PatchBukkit](https://github.com/Pumpkin-MC/PatchBukkit) - Run Bukkit, Spigot, and Paper plugins on PumpkinMC
 - [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README
 - [haaarshsingh/halftone-dots](https://github.com/haaarshsingh/halftone-dots) - 
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20&#43; plugins. Used by Vercel, OpenCode, and PayPal.
-- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 # My setup
 
 Arch Linux dual boot with Win11 pro
