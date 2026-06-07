@@ -19,11 +19,11 @@
 - [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 ### ⭐ Recent Stars
 
+- [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 - [Pumpkin-MC/PatchBukkit](https://github.com/Pumpkin-MC/PatchBukkit) - Run Bukkit, Spigot, and Paper plugins on PumpkinMC
 - [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README
 - [haaarshsingh/halftone-dots](https://github.com/haaarshsingh/halftone-dots) - 
-- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20&#43; plugins. Used by Vercel, OpenCode, and PayPal.
 # My setup
 
 Arch Linux dual boot with Win11 pro
