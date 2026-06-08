@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/pi-history](https://github.com/brrock/pi-history) - 
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
 - [simples-tools/cc-patchr](https://github.com/simples-tools/cc-patchr) - Simple patching tool for claude code that lets you natviely use AGENTS.md and .agents/skills 
-- [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 ### 🌱 My latest projects
 
+- [brrock/pi-history](https://github.com/brrock/pi-history) - 
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 - [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
-- [brrock/obs-autoluanch](https://github.com/brrock/obs-autoluanch) - 
 ### ⭐ Recent Stars
 
+- [vltpkg/benchmarks](https://github.com/vltpkg/benchmarks) - Tracking the performance of JS package managers
+- [SeanPedersen/pi-codegraph](https://github.com/SeanPedersen/pi-codegraph) - Pi coding agent extension for codegraph (tree-sitter knowledge graph MCP sidecar)
 - [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 - [Pumpkin-MC/PatchBukkit](https://github.com/Pumpkin-MC/PatchBukkit) - Run Bukkit, Spigot, and Paper plugins on PumpkinMC
-- [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README
-- [haaarshsingh/halftone-dots](https://github.com/haaarshsingh/halftone-dots) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
