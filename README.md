@@ -19,11 +19,11 @@
 - [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 ### ⭐ Recent Stars
 
+- [ThisIsMissEm/setup-trusted-publishing](https://github.com/ThisIsMissEm/setup-trusted-publishing) - Publish a 0.0.0 stub to npm so OIDC trusted publishing can be configured
+- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - 
 - [vltpkg/benchmarks](https://github.com/vltpkg/benchmarks) - Tracking the performance of JS package managers
 - [SeanPedersen/pi-codegraph](https://github.com/SeanPedersen/pi-codegraph) - Pi coding agent extension for codegraph (tree-sitter knowledge graph MCP sidecar)
 - [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- [Pumpkin-MC/PatchBukkit](https://github.com/Pumpkin-MC/PatchBukkit) - Run Bukkit, Spigot, and Paper plugins on PumpkinMC
 # My setup
 
 Arch Linux dual boot with Win11 pro
