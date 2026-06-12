@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
-- [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent &amp; MCP &amp; Workflows.
-- [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
-- [simples-tools/cc-patchr](https://github.com/simples-tools/cc-patchr) - Simple patching tool for claude code that lets you natviely use AGENTS.md and .agents/skills 
+- [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### 🌱 My latest projects
 
+- [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 - [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
-- [brrock/notebookllm-mindmap-extractor](https://github.com/brrock/notebookllm-mindmap-extractor) - 
 ### ⭐ Recent Stars
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [ThisIsMissEm/setup-trusted-publishing](https://github.com/ThisIsMissEm/setup-trusted-publishing) - Publish a 0.0.0 stub to npm so OIDC trusted publishing can be configured
 - [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - 
 - [vltpkg/benchmarks](https://github.com/vltpkg/benchmarks) - Tracking the performance of JS package managers
 - [SeanPedersen/pi-codegraph](https://github.com/SeanPedersen/pi-codegraph) - Pi coding agent extension for codegraph (tree-sitter knowledge graph MCP sidecar)
-- [raine/claude-history](https://github.com/raine/claude-history) - Fuzzy-search Claude Code conversation history
 # My setup
 
 Arch Linux dual boot with Win11 pro
