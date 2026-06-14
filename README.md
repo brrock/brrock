@@ -19,11 +19,11 @@
 - [brrock/pi-config](https://github.com/brrock/pi-config) - 
 ### ⭐ Recent Stars
 
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+- [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [ThisIsMissEm/setup-trusted-publishing](https://github.com/ThisIsMissEm/setup-trusted-publishing) - Publish a 0.0.0 stub to npm so OIDC trusted publishing can be configured
-- [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) - A browser-based viewer for Office Open XML documents that renders to an HTML Canvas element.
-- [vltpkg/benchmarks](https://github.com/vltpkg/benchmarks) - Tracking the performance of JS package managers
 # My setup
 
 Arch Linux dual boot with Win11 pro
