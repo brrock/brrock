@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 - [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
-- [brrock/astro-client](https://github.com/brrock/astro-client) - 1.8 open source vibe coded lunar client style client
-- [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### 🌱 My latest projects
 
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
+- [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
-- [brrock/tiny-virtfs](https://github.com/brrock/tiny-virtfs) - 10kb virtual fs for test suites or whatever. zero deps. 316 LOCs. dirt simple.
-- [brrock/pi-config](https://github.com/brrock/pi-config) - 
 ### ⭐ Recent Stars
 
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-- [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-- [ThisIsMissEm/setup-trusted-publishing](https://github.com/ThisIsMissEm/setup-trusted-publishing) - Publish a 0.0.0 stub to npm so OIDC trusted publishing can be configured
+- [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
+- [yuku-toolchain/napi-zig](https://github.com/yuku-toolchain/napi-zig) - The simplest way to write cross-platform Node.js native addons in Zig.
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn&#39;t require an AltServer.
+- [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.
+- [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple&#39;s Vision framework.
 # My setup
 
 Arch Linux dual boot with Win11 pro
