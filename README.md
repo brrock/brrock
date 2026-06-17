@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The all-in-one Node.js toolkit
 - [kapishdima/remocn](https://github.com/kapishdima/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast
 - [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out
 - [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
 - [yuku-toolchain/napi-zig](https://github.com/yuku-toolchain/napi-zig) - The simplest way to write cross-platform Node.js native addons in Zig.
-- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn&#39;t require an AltServer.
 # My setup
 
 Arch Linux dual boot with Win11 pro
