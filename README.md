@@ -23,7 +23,7 @@
 - [MCXboxBroadcast/Broadcaster](https://github.com/MCXboxBroadcast/Broadcaster) - A simple Geyser extension that broadcasts the server over Xbox Live.
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
-- [nubjs/nub](https://github.com/nubjs/nub) - The all-in-one Node.js toolkit
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 # My setup
 
 Arch Linux dual boot with Win11 pro
