@@ -19,7 +19,7 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
-- [0xroylee/ponytrail](https://github.com/0xroylee/ponytrail) - 
+- [0xroylee/ponyrace](https://github.com/0xroylee/ponyrace) - 
 - [BX-Team/DivineMC](https://github.com/BX-Team/DivineMC) - DivineMC is a multi-functional fork of Purpur, which focuses on the flexibility of your server and its optimization.
 - [MCXboxBroadcast/Broadcaster](https://github.com/MCXboxBroadcast/Broadcaster) - A simple Geyser extension that broadcasts the server over Xbox Live.
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
