@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [0xroylee/ponyrace](https://github.com/0xroylee/ponyrace) - 
 - [BX-Team/DivineMC](https://github.com/BX-Team/DivineMC) - DivineMC is a multi-functional fork of Purpur, which focuses on the flexibility of your server and its optimization.
 - [MCXboxBroadcast/Broadcaster](https://github.com/MCXboxBroadcast/Broadcaster) - A simple Geyser extension that broadcasts the server over Xbox Live.
-- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
-- [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 # My setup
 
 Arch Linux dual boot with Win11 pro
