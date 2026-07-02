@@ -22,7 +22,7 @@
 - [Vanilagy/turbores](https://github.com/Vanilagy/turbores) - An extremely fast WASM Apple ProRes video decoder
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [0xroylee/ponyrace](https://github.com/0xroylee/ponyrace) - 
+- [0xroylee/getsuperpower](https://github.com/0xroylee/getsuperpower) - 
 - [BX-Team/DivineMC](https://github.com/BX-Team/DivineMC) - DivineMC is a multi-functional fork of Purpur, which focuses on the flexibility of your server and its optimization.
 # My setup
 
