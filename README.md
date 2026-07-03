@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
+- [jnsahaj/skills](https://github.com/jnsahaj/skills) - agent skills I use daily
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Vanilagy/turbores](https://github.com/Vanilagy/turbores) - An extremely fast WASM Apple ProRes video decoder
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [0xroylee/getsuperpower](https://github.com/0xroylee/getsuperpower) - 
-- [BX-Team/DivineMC](https://github.com/BX-Team/DivineMC) - DivineMC is a multi-functional fork of Purpur, which focuses on the flexibility of your server and its optimization.
 # My setup
 
 Arch Linux dual boot with Win11 pro
