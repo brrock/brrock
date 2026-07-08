@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [michaelshimeles/boring-computers](https://github.com/michaelshimeles/boring-computers) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.
+- [can1357/NoVmp](https://github.com/can1357/NoVmp) - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
-- [jnsahaj/skills](https://github.com/jnsahaj/skills) - agent skills I use daily
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 # My setup
 
 Arch Linux dual boot with Win11 pro
