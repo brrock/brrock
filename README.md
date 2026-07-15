@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
 - [temperlang/temper](https://github.com/temperlang/temper) - A programming language for libraries translated to all the others
 - [michaelshimeles/boring-computers](https://github.com/michaelshimeles/boring-computers) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.
-- [can1357/NoVmp](https://github.com/can1357/NoVmp) - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 # My setup
 
 Arch Linux dual boot with Win11 pro
