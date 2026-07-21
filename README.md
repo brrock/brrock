@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card 
 - [haydenbleasel/blume](https://github.com/haydenbleasel/blume) - World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 - [chicoxyzzy/cynic](https://github.com/chicoxyzzy/cynic) - A strict-only ECMAScript engine, written from scratch.
 - [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
 - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
-- [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
 # My setup
 
 Arch Linux dual boot with Win11 pro
