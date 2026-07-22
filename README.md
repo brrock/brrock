@@ -19,11 +19,11 @@
 - [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX &amp; HTML to SVG or images. 160&#43; CSS properties supported. Drop-in next/og replacement.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card 
 - [haydenbleasel/blume](https://github.com/haydenbleasel/blume) - World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 - [chicoxyzzy/cynic](https://github.com/chicoxyzzy/cynic) - A strict-only ECMAScript engine, written from scratch.
 - [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
-- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 # My setup
 
 Arch Linux dual boot with Win11 pro
