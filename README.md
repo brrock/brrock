@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
+- [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 ### 🌱 My latest projects
 
+- [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
-- [brrock/openfern](https://github.com/brrock/openfern) - tiny fern clone with samll feature set and docs parity.
 ### ⭐ Recent Stars
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
+- [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX &amp; HTML to SVG or images. 160&#43; CSS properties supported. Drop-in next/og replacement.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card 
 - [haydenbleasel/blume](https://github.com/haydenbleasel/blume) - World-class docs for everything you ship. Fast, AI-ready, and zero-config.
-- [chicoxyzzy/cynic](https://github.com/chicoxyzzy/cynic) - A strict-only ECMAScript engine, written from scratch.
-- [floodtide/dom-docx](https://github.com/floodtide/dom-docx) - Convert semantic HTML fragments to native, editable Word documents (OOXML)
 # My setup
 
 Arch Linux dual boot with Win11 pro
