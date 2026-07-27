@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX &amp; HTML to SVG or images. 160&#43; CSS properties supported. Drop-in next/og replacement.
 # My setup
 
 Arch Linux dual boot with Win11 pro
