@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [binbandit/triage](https://github.com/binbandit/triage) - 
 - [zortos293/T3Notch](https://github.com/zortos293/T3Notch) - Alcove-style dynamic notch for T3 Code: live agent progress, task lists, and approvals answered under the Mac notch
-- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 # My setup
 
 Arch Linux dual boot with Win11 pro
