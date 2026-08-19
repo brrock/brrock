@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [curxxed-mc/lunar-agent](https://github.com/curxxed-mc/lunar-agent) - A Java agent that injects mods into Lunar Client 1.8.9 at runtime.
+- [UrchinGG/Starfish-Proxy](https://github.com/UrchinGG/Starfish-Proxy) - 
+- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
 - [egoist/gpt-image](https://github.com/egoist/gpt-image) - A CLI and agent skill to work with gpt-image-2 using API key or subscription
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
-- [pi0/rangi](https://github.com/pi0/rangi) - 🎨 Tiny Syntax Highlighter
-- [zeronsh/comet](https://github.com/zeronsh/comet) - 
-- [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 # My setup
 
 Arch Linux dual boot with Win11 pro
