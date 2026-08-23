@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [marcelrgberger/xcode-cli](https://github.com/marcelrgberger/xcode-cli) - Claude Code plugin: Control Xcode from Claude — build, test, run, clean, manage simulators, schemes, projects, and devices. 30&#43; commands via AppleScript &#43; xcodebuild &#43; xcrun.
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking 
 - [OpenVapeCN/VapeV4.21](https://github.com/OpenVapeCN/VapeV4.21) - 
 - [curxxed-mc/lunar-agent](https://github.com/curxxed-mc/lunar-agent) - A Java agent that injects mods into Lunar Client 1.8.9 at runtime.
 - [UrchinGG/Starfish-Proxy](https://github.com/UrchinGG/Starfish-Proxy) - 
-- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
 # My setup
 
 Arch Linux dual boot with Win11 pro
