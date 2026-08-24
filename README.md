@@ -6,8 +6,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
-- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### 🌱 My latest projects
