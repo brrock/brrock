@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [UsefulSoftwareCo/standardassistant](https://github.com/UsefulSoftwareCo/standardassistant) - macOS app giving each bot its own virtual display — mirrored live and driven by forwarded input
+- [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 - [marcelrgberger/xcode-cli](https://github.com/marcelrgberger/xcode-cli) - Claude Code plugin: Control Xcode from Claude — build, test, run, clean, manage simulators, schemes, projects, and devices. 30&#43; commands via AppleScript &#43; xcodebuild &#43; xcrun.
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking 
 - [OpenVapeCN/VapeV4.21](https://github.com/OpenVapeCN/VapeV4.21) - 
-- [curxxed-mc/lunar-agent](https://github.com/curxxed-mc/lunar-agent) - A Java agent that injects mods into Lunar Client 1.8.9 at runtime.
-- [UrchinGG/Starfish-Proxy](https://github.com/UrchinGG/Starfish-Proxy) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
