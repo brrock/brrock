@@ -19,11 +19,11 @@
 - [brrock/pi-history](https://github.com/brrock/pi-history) - 
 ### ⭐ Recent Stars
 
+- [UsefulSoftwareCo/executor-cursor](https://github.com/UsefulSoftwareCo/executor-cursor) - Official Executor plugin for Cursor
 - [dannote/pi-ios](https://github.com/dannote/pi-ios) - Pi coding agent for iOS - native Bun &#43; Ghostty terminal
 - [Polyfrost/OneLauncher](https://github.com/Polyfrost/OneLauncher) - Monorepo containing OneLauncher, OneClient, and their core backend. 100% Rust.
 - [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
 - [UsefulSoftwareCo/standardassistant](https://github.com/UsefulSoftwareCo/standardassistant) - macOS app giving each bot its own virtual display — mirrored live and driven by forwarded input
-- [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 # My setup
 
 Arch Linux dual boot with Win11 pro
