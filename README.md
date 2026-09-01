@@ -19,11 +19,11 @@
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 ### ⭐ Recent Stars
 
+- [NoHackClient/OpenExpo](https://github.com/NoHackClient/OpenExpo) - 开源精神美利坚人蔡子豪的客户端Expo
+- [NoHackClient/Rise-6.9.5](https://github.com/NoHackClient/Rise-6.9.5) - fully deobf, renamed, optimized, and ideaready.....
 - [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn&#39;t need
 - [paulsp94/omacosy](https://github.com/paulsp94/omacosy) - Pre-1.0. An omarchy-style desktop environment for macOS: tiling with a real Super key, dwindle layout, a themed status bar written for it, focus-follows-mouse, trackpad workspace swipes and a live workspace overview — ~157MB, six self-built Swift binaries, one repo. Built and tested on macOS 26 / Apple Silicon.
 - [Polyfrost/OneLauncher](https://github.com/Polyfrost/OneLauncher) - Monorepo containing OneLauncher, OneClient, and their core backend. 100% Rust.
-- [UsefulSoftwareCo/standardassistant](https://github.com/UsefulSoftwareCo/standardassistant) - macOS app giving each bot its own virtual display — mirrored live and driven by forwarded input
-- [OpenVapeCN/VapeV4.21](https://github.com/OpenVapeCN/VapeV4.21) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
