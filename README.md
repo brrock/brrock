@@ -19,11 +19,11 @@
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 ### ⭐ Recent Stars
 
+- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [OpenLabs-so/openanalytics](https://github.com/OpenLabs-so/openanalytics) - Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server.
 - [speakeasy-api/kit](https://github.com/speakeasy-api/kit) - Kit is a coding agent runtime. Claude Code but faster, cheaper and more to the point 🎯
 - [NoHackClient/OpenExpo](https://github.com/NoHackClient/OpenExpo) - 开源精神美利坚人蔡子豪的客户端Expo
 - [NoHackClient/Rise-6.9.5](https://github.com/NoHackClient/Rise-6.9.5) - fully deobf, renamed, optimized, and ideaready.....
-- [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn&#39;t need
 # My setup
 
 Arch Linux dual boot with Win11 pro
