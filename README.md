@@ -19,11 +19,11 @@
 - [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 ### ⭐ Recent Stars
 
+- [s0roptAlt/OpenCryptix](https://github.com/s0roptAlt/OpenCryptix) - Thanks for this skidded bypasses trillionaire
+- [theuargb/actively-better-chatbot](https://github.com/theuargb/actively-better-chatbot) - Actively Better Chatbot. Open-source AI workspace for agents, MCP and workflow automation.
+- [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C&#43;&#43; and more. No copies, no wasted disk — just hardlinks locally and S3 for sharing.
 - [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [OpenLabs-so/openanalytics](https://github.com/OpenLabs-so/openanalytics) - Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server.
-- [speakeasy-api/kit](https://github.com/speakeasy-api/kit) - Kit is a coding agent runtime. Claude Code but faster, cheaper and more to the point 🎯
-- [NoHackClient/OpenExpo](https://github.com/NoHackClient/OpenExpo) - 开源精神美利坚人蔡子豪的客户端Expo
-- [NoHackClient/Rise-6.9.5](https://github.com/NoHackClient/Rise-6.9.5) - fully deobf, renamed, optimized, and ideaready.....
 # My setup
 
 Arch Linux dual boot with Win11 pro
