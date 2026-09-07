@@ -5,25 +5,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
+- [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
+- [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
-- [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 ### 🌱 My latest projects
 
+- [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
-- [brrock/percentvibed](https://github.com/brrock/percentvibed) - 
 ### ⭐ Recent Stars
 
-- [s0roptAlt/OpenCryptix](https://github.com/s0roptAlt/OpenCryptix) - Thanks for this skidded bypasses trillionaire
 - [theuargb/actively-better-chatbot](https://github.com/theuargb/actively-better-chatbot) - Actively Better Chatbot. Open-source AI workspace for agents, MCP and workflow automation.
 - [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C&#43;&#43; and more. No copies, no wasted disk — just hardlinks locally and S3 for sharing.
 - [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [OpenLabs-so/openanalytics](https://github.com/OpenLabs-so/openanalytics) - Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server.
+- [speakeasy-api/kit](https://github.com/speakeasy-api/kit) - Kit is a coding agent runtime. Claude Code but faster, cheaper and more to the point 🎯
 # My setup
 
 Arch Linux dual boot with Win11 pro
