@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [paradise-runner/toast](https://github.com/paradise-runner/toast) - a batteries-included, beautiful, in-terminal IDE
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [Dryxio/reagent](https://github.com/Dryxio/reagent) - Reconstruct and validate C/C&#43;&#43; code from compiled programs with AI.
 - [autc04/Retro68](https://github.com/autc04/Retro68) - a gcc-based cross-compiler for classic 68K and PPC Macintoshes
 - [theuargb/actively-better-chatbot](https://github.com/theuargb/actively-better-chatbot) - Actively Better Chatbot. Open-source AI workspace for agents, MCP and workflow automation.
-- [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C&#43;&#43; and more. No copies, no wasted disk — just hardlinks locally and S3 for sharing.
 # My setup
 
 Arch Linux dual boot with Win11 pro
