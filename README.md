@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [NotAlley233/Drip-3.3-cracked](https://github.com/NotAlley233/Drip-3.3-cracked) - Drip 3.3 cracked
+- [aurora-silicon/linux](https://github.com/aurora-silicon/linux) - Linux kernel source tree
 - [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron
 - [anomalyco/rift](https://github.com/anomalyco/rift) - 
 - [lovablelabs/oj](https://github.com/lovablelabs/oj) - An experimental Rust-native build tool for React apps.
-- [paradise-runner/toast](https://github.com/paradise-runner/toast) - a batteries-included, beautiful, in-terminal IDE
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 # My setup
 
 Arch Linux dual boot with Win11 pro
