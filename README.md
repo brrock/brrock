@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [NotAlley233/Drip-3.3-cracked](https://github.com/NotAlley233/Drip-3.3-cracked) - Drip 3.3 cracked
 - [aurora-silicon/linux](https://github.com/aurora-silicon/linux) - Linux kernel source tree
 - [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron
 - [anomalyco/rift](https://github.com/anomalyco/rift) - 
-- [lovablelabs/oj](https://github.com/lovablelabs/oj) - An experimental Rust-native build tool for React apps.
 # My setup
 
 Arch Linux dual boot with Win11 pro
