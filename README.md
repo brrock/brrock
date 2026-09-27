@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
+- [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
-- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### 🌱 My latest projects
 
 - [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- [bddicken/parallax](https://github.com/bddicken/parallax) - 
+- [NoHackClient/ZelixKlassMaster-27](https://github.com/NoHackClient/ZelixKlassMaster-27) - zkm27 fully deobf, renamed, optimized, and ideaready.....
+- [egoist/lorca](https://github.com/egoist/lorca) - Imagine Telegram but single person, with agents, and end-to-end encrypted
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
-- [NotAlley233/Drip-3.3-cracked](https://github.com/NotAlley233/Drip-3.3-cracked) - Drip 3.3 cracked
-- [aurora-silicon/linux](https://github.com/aurora-silicon/linux) - Linux kernel source tree
-- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js &amp; React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron
-- [anomalyco/rift](https://github.com/anomalyco/rift) - 
 # My setup
 
 Arch Linux dual boot with Win11 pro
