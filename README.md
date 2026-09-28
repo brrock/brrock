@@ -6,9 +6,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
+- [ewqerx/cloud](https://github.com/ewqerx/cloud) - 
 - [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
-- [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### 🌱 My latest projects
 
@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
+- [opencoredev/akeru-bot](https://github.com/opencoredev/akeru-bot) - Open-source Grok Bot alternative for named AI teammates. Local-first desktop, web, and mobile clients with per-bot tools, instructions, and memory. Independent fork of T3 Code.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [bddicken/parallax](https://github.com/bddicken/parallax) - 
 - [NoHackClient/ZelixKlassMaster-27](https://github.com/NoHackClient/ZelixKlassMaster-27) - zkm27 fully deobf, renamed, optimized, and ideaready.....
-- [egoist/lorca](https://github.com/egoist/lorca) - Imagine Telegram but single person, with agents, and end-to-end encrypted
-- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 # My setup
 
 Arch Linux dual boot with Win11 pro
