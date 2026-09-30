@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [vespassassina/ha-floorplan-studio](https://github.com/vespassassina/ha-floorplan-studio) - Home Assistant integration to make and activate floorplans in HA
 - [Tewxx/OpenJade](https://github.com/Tewxx/OpenJade) - Jade Client
 - [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
 - [opencoredev/akeru-bot](https://github.com/opencoredev/akeru-bot) - Open-source Grok Bot alternative for named AI teammates. Local-first desktop, web, and mobile clients with per-bot tools, instructions, and memory. Independent fork of T3 Code.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
-- [NoHackClient/ZelixKlassMaster-27](https://github.com/NoHackClient/ZelixKlassMaster-27) - zkm27 fully deobf, renamed, optimized, and ideaready.....
 # My setup
 
 Arch Linux dual boot with Win11 pro
