@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
 - [unjs/upm](https://github.com/unjs/upm) - 📦 A fast, tiny package manager for the npm registry, written in TypeScript.
 - [vespassassina/ha-floorplan-studio](https://github.com/vespassassina/ha-floorplan-studio) - Home Assistant integration to make and activate floorplans in HA
 - [Tewxx/OpenJade](https://github.com/Tewxx/OpenJade) - Jade Client
 - [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
-- [opencoredev/akeru-bot](https://github.com/opencoredev/akeru-bot) - Open-source Grok Bot alternative for named AI teammates. Local-first desktop, web, and mobile clients with per-bot tools, instructions, and memory. Independent fork of T3 Code.
 # My setup
 
 Arch Linux dual boot with Win11 pro
