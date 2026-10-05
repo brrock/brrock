@@ -9,7 +9,7 @@
 - [ewqerx/cloud](https://github.com/ewqerx/cloud) - 
 - [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
-- [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
+- [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### 🌱 My latest projects
 
 - [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
@@ -19,11 +19,11 @@
 - [brrock/better-timers](https://github.com/brrock/better-timers) - Weave mod to show only the timers you need to care about
 ### ⭐ Recent Stars
 
+- [whirlchat/whirl](https://github.com/whirlchat/whirl) - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.
 - [unjs/upm](https://github.com/unjs/upm) - 📦 A fast, tiny package manager for the npm registry, written in TypeScript.
-- [vespassassina/ha-floorplan-studio](https://github.com/vespassassina/ha-floorplan-studio) - Home Assistant integration to make and activate floorplans in HA
-- [Tewxx/OpenJade](https://github.com/Tewxx/OpenJade) - Jade Client
-- [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
 # My setup
 
 Arch Linux dual boot with Win11 pro
