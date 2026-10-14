@@ -19,11 +19,11 @@
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### ⭐ Recent Stars
 
+- [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+- [michaelshimeles/glide](https://github.com/michaelshimeles/glide) - Open-source Screen Studio, built in Rust
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 - [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
-- [egoist/gorex](https://github.com/egoist/gorex) - Rex terminal clone in MyGo native UI
 # My setup
 
 Arch Linux dual boot with Win11 pro
