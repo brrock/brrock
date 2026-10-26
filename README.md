@@ -19,11 +19,11 @@
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### ⭐ Recent Stars
 
+- [x86rc/unthemidator](https://github.com/x86rc/unthemidator) - An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack) - 
+- [StormingMoon/Oreans-CodeDevirtualizor](https://github.com/StormingMoon/Oreans-CodeDevirtualizor) - Probably not the best Devirtualizor but it works sometimes
 - [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet) - iOS 16 userland &#43; XNU on Redmi Note 10 Pro (sweet, SM7150)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) - Fix Play Integrity verdicts.
-- [Lakr233/ScratchPads](https://github.com/Lakr233/ScratchPads) - Shared markdown pads for people and their agents — Outline-style UI, curl-friendly API, comments and @mentions.
-- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you&#39;d run from a volcano! 🌋 
 # My setup
 
 Arch Linux dual boot with Win11 pro
