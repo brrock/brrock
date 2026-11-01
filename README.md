@@ -5,8 +5,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [Tewxx/rustmc](https://github.com/Tewxx/rustmc) - Minecraft 1.8.9 client written in Rust
+- [brrock/toktracker](https://github.com/brrock/toktracker) - Self-hosted, local-first dashboard for AI coding-agent usage across your devices.
 - [brrock/oj-builds](https://github.com/brrock/oj-builds) - Prebuilt Linux binaries of lovablelabs/oj on npm (@brrock/oj), e.g. for Vercel
 - [ewqerx/cloud](https://github.com/ewqerx/cloud) - 
 - [brrock/meowtils-modern](https://github.com/brrock/meowtils-modern) - Meowtils fully ported to 26.2 fabric with full feature support
@@ -19,11 +19,11 @@
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### ⭐ Recent Stars
 
+- [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
 - [ThallesP/rustcraft](https://github.com/ThallesP/rustcraft) - Minecraft Java client ported to Rust, checked against the original game
 - [ollix/MetalNanoVG](https://github.com/ollix/MetalNanoVG) - The Metal port of NanoVG.
 - [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 # My setup
 
 Arch Linux dual boot with Win11 pro
