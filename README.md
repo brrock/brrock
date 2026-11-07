@@ -19,11 +19,11 @@
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### ⭐ Recent Stars
 
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf) - shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.
 - [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 - [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
 - [ThallesP/rustcraft](https://github.com/ThallesP/rustcraft) - Minecraft Java client ported to Rust, checked against the original game
-- [ollix/MetalNanoVG](https://github.com/ollix/MetalNanoVG) - The Metal port of NanoVG.
 # My setup
 
 Arch Linux dual boot with Win11 pro
