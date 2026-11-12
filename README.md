@@ -19,7 +19,7 @@
 - [brrock/teams-stars](https://github.com/brrock/teams-stars) - Weave mod to show your team mates stars in the teams hud in bedwars in lunar client
 ### ⭐ Recent Stars
 
-- [maria-rcks/t3code-pr33665-evidence](https://github.com/maria-rcks/t3code-pr33665-evidence) - Real development verification evidence for t3code PR 33665
+- [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 - [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 - [Q2x38b/silentkit](https://github.com/Q2x38b/silentkit) - Three Agent Skills for building Minecraft ghost clients with real bypasses: behaviour, interface, and loader.
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
