@@ -19,11 +19,11 @@
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
 ### ⭐ Recent Stars
 
+- [pithings/unkernel](https://github.com/pithings/unkernel) - A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+- [colinhacks/frizz](https://github.com/colinhacks/frizz) - An opinionated agent command center for extreme productivity. Runs on localhost.
 - [RogerSelwyn/skyq_remote](https://github.com/RogerSelwyn/skyq_remote) - Python module for accessing SkyQ box and EPG, and sending commands
 - [nullmoth/liberator](https://github.com/nullmoth/liberator) - Liberator: macOS 27 on PCs and Intel Macs
 - [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
-- [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
-- [Q2x38b/silentkit](https://github.com/Q2x38b/silentkit) - Three Agent Skills for building Minecraft ghost clients with real bypasses: behaviour, interface, and loader.
 # My setup
 
 Arch Linux dual boot with Win11 pro
