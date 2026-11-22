@@ -19,11 +19,11 @@
 - [brrock/t3code-pi](https://github.com/brrock/t3code-pi) - agent maintained t3code fork with first class pi support 
 ### ⭐ Recent Stars
 
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [pithings/unkernel](https://github.com/pithings/unkernel) - A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
 - [colinhacks/frizz](https://github.com/colinhacks/frizz) - An opinionated agent command center for extreme productivity. Runs on localhost.
 - [RogerSelwyn/skyq_remote](https://github.com/RogerSelwyn/skyq_remote) - Python module for accessing SkyQ box and EPG, and sending commands
 - [nullmoth/liberator](https://github.com/nullmoth/liberator) - Liberator: macOS 27 on PCs and Intel Macs
-- [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 # My setup
 
 Arch Linux dual boot with Win11 pro
